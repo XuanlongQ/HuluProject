@@ -75,7 +75,6 @@ if __name__ == '__main__':
     print(testUrl)
     """
 
-    
     # 计数页
     count = 0
     cur = "*"
@@ -89,7 +88,7 @@ if __name__ == '__main__':
         
         getResults(results)
         
-        # print(cur)
+        # print(cur,type(cur))
         # writeResq(results) 
         break
         

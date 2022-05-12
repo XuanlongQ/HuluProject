@@ -71,7 +71,7 @@ class ParseWork:
             result (json): response from url
 
         Returns:
-            dict,str,str: the results of first authors' name,institution,countrycode
+            dict,str,str: the results of first authors' dict,institution,countrycode
         """
         authorships = result["authorships"] # all the authors' information,list
         first_author = [x for x in authorships][0] # authors - first author,dict - add test cases, and need be confirmed
