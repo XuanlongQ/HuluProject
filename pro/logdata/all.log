@@ -1,0 +1,76 @@
+2022-05-11 23:11:39,117 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:16] - INFO: go
+2022-05-11 23:15:08,983 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:20] - INFO: get meta list,get results list
+2022-05-11 23:20:28,014 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:25] - INFO: get meta list,get results list
+2022-05-11 23:25:27,085 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:27] - INFO: get meta list,get results list
+2022-05-11 23:41:25,167 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:25] - INFO: get meta list,get results list
+2022-05-11 23:47:20,308 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-11 23:47:49,696 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-11 23:48:29,529 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-11 23:54:03,055 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-11 23:55:26,718 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-11 23:55:56,017 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-11 23:57:28,615 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-11 23:57:55,089 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-11 23:58:09,205 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-11 23:59:32,003 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-12 00:02:00,615 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-12 00:02:16,746 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-12 00:02:35,331 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-12 00:04:03,113 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-12 00:05:14,178 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-12 00:06:18,094 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:31] - INFO: get meta list,get results list
+2022-05-12 00:08:35,128 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:32] - INFO: get meta list,get results list
+2022-05-12 00:10:08,807 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:32] - INFO: get meta list,get results list
+2022-05-12 00:11:18,824 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:32] - INFO: get meta list,get results list
+2022-05-12 00:13:02,043 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:64] - INFO: return highest score
+2022-05-12 00:13:02,043 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:32] - INFO: get meta list,get results list
+2022-05-12 00:16:28,058 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:74] - INFO: return highest score concept.
+2022-05-12 00:16:28,058 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:32] - INFO: get meta list,get results list.
+2022-05-12 00:18:24,611 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:49] - INFO: return top level concept.
+2022-05-12 00:18:24,611 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:79] - INFO: return highest score concept.
+2022-05-12 00:18:24,611 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:33] - INFO: get meta list,get results list.
+2022-05-12 00:25:41,650 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:65] - INFO: return top level concept.
+2022-05-12 00:25:41,651 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:95] - INFO: return highest score concept.
+2022-05-12 00:25:41,651 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:39] - INFO: get meta list,get results list.
+2022-05-12 00:26:07,497 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:65] - INFO: return top level concept.
+2022-05-12 00:26:07,497 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:95] - INFO: return highest score concept.
+2022-05-12 00:26:07,497 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:39] - INFO: get meta list,get results list.
+2022-05-12 00:26:31,822 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:66] - INFO: return top level concept.
+2022-05-12 00:26:31,823 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:96] - INFO: return highest score concept.
+2022-05-12 00:26:31,823 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:40] - INFO: get meta list,get results list.
+2022-05-12 00:26:58,864 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:64] - INFO: return top level concept.
+2022-05-12 00:26:58,865 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:94] - INFO: return highest score concept.
+2022-05-12 00:26:58,865 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:64] - INFO: return top level concept.
+2022-05-12 00:26:58,865 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:94] - INFO: return highest score concept.
+2022-05-12 00:26:58,865 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:38] - INFO: get meta list,get results list.
+2022-05-12 00:30:17,238 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:69] - INFO: return top level concept.
+2022-05-12 00:30:17,238 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:99] - INFO: return highest score concept.
+2022-05-12 00:30:17,239 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:69] - INFO: return top level concept.
+2022-05-12 00:30:17,239 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:99] - INFO: return highest score concept.
+2022-05-12 00:30:17,239 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:39] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-12 00:30:17,239 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:45] - INFO: return papers' id,subject,type dict.
+2022-05-12 11:57:51,972 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:39] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-12 11:57:51,972 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:39] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-12 11:57:51,973 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:58] - INFO: return top level concept.
+2022-05-12 11:57:51,973 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:58] - INFO: return top level concept.
+2022-05-12 11:57:51,973 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:58] - INFO: return top level concept.
+2022-05-12 11:57:51,973 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:58] - INFO: return top level concept.
+2022-05-12 11:57:51,973 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:58] - INFO: return papers' id,subject,type dict.
+2022-05-12 11:57:51,973 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:58] - INFO: return papers' id,subject,type dict.
+2022-05-12 11:58:44,526 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:39] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-12 11:58:44,526 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:39] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-12 11:58:44,526 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:86] - INFO: return highest score concept.
+2022-05-12 11:58:44,526 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:86] - INFO: return highest score concept.
+2022-05-12 11:58:44,526 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:86] - INFO: return highest score concept.
+2022-05-12 11:58:44,526 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:86] - INFO: return highest score concept.
+2022-05-12 11:58:44,527 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:58] - INFO: return papers' id,subject,type dict.
+2022-05-12 11:58:44,527 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:58] - INFO: return papers' id,subject,type dict.
+2022-05-12 12:00:28,287 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:39] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-12 12:00:28,287 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:39] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-12 12:00:28,288 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:86] - INFO: return highest score concept.
+2022-05-12 12:00:28,288 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:86] - INFO: return highest score concept.
+2022-05-12 12:00:28,288 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:86] - INFO: return highest score concept.
+2022-05-12 12:00:28,288 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:86] - INFO: return highest score concept.
+2022-05-12 12:00:28,288 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:58] - INFO: return papers' id,subject,type dict.
+2022-05-12 12:00:28,288 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:58] - INFO: return papers' id,subject,type dict.
+2022-05-12 17:27:27,583 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:35] - INFO: return abstract.
