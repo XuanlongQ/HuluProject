@@ -1,27 +1,27 @@
 #!/usr/bin/python
 import requests
 import json
+import urllib
+# sys.path.append("..") 
 
-from pro.toolFunc import ParseWork
 
 
 url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=10&filter=publication_year:2020,institutions.ror:https://ror.org/042nb2s44&cursor=*"
 
 resp = requests.get(url).json()
 
-results = resp["results"]
+baseUrl = "https://api.openalex.org"
 
-a = ParseWork.getAbstract(results)
+payload = {
+    "mailto": "zd675589296@qq.com",
+    "per-page": "10"
+}
 
-print(a)
+query_string = urllib.parse.urlencode(payload)
 
-# for result in results:
-#     abstract_inverted_index = result["abstract_inverted_index"]
-#     str = " "
-#     seq = [ _ for _ in abstract_inverted_index.keys() ] # abstract list
-#     abstract = str.join(seq) # abstract str
-#     print(abstract,type(abstract))   
-#     break
+print(query_string)
+
+urls = []
 
 
 
@@ -44,14 +44,10 @@ print(a)
 #     print(resp["meta"])
 
 
-# baseUrl = "https://api.openalex.org"
 
-# payload = {
-#     "mailto": "zd675589296@qq.com",
-#     "per-page": "10"
-# }
 
-# query_string = urllib.parse.urlencode(payload)
+
+
 # print(query_string)
 # url = baseUrl + "/works?"+query_string+"&filter=publication_year:2020,"+ INSTITUTION + "&cursor=*"
 # print(url)
