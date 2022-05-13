@@ -95,7 +95,26 @@ class ParseWork:
                     
                 
 class ParseAuthor:
-    pass
+    """Parse the content of Author Id
+    """
+    
+    @staticmethod
+    def getResultsAuthor(result):
+        """Parse list of x_concepts
+
+        Args:
+            result (dict): dict of one x_concept
+
+        Returns:
+            str, str: authorId ,authorConcept
+        """
+        authorId = result["id"]
+        authorConcept = result["display_name"]
+        print(authorId,type(authorId))
+        print(authorConcept,type(authorConcept))
+        return authorId,authorConcept # str,str
+    
+    
 
 class ParseVenue:
     pass
@@ -130,7 +149,7 @@ class FindConcept:
             level = concept["level"]
             conceptDict[subject] = int(level)
         conceptList = sorted(conceptDict.items(), key = lambda kv:(kv[1], kv[0]),reverse=False) # sorted conceptlist,list
-        print(conceptList,type(conceptList))
+        # print(conceptList,type(conceptList))
         
         try:
             topLevel = conceptList[0][0]
@@ -157,7 +176,7 @@ class FindConcept:
             conceptDict[subject] = float(score)
             #print(concept,type(concept))
         conceptList = sorted(conceptDict.items(), key = lambda kv:(kv[1], kv[0]),reverse=True) # sorted conceptlist,list
-        print(conceptList,type(conceptList))    
+        # print(conceptList,type(conceptList))    
         
         try:
             HighestScoreConcept = conceptList[0][0]

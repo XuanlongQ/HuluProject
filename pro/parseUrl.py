@@ -73,7 +73,7 @@ def parseCitedByApiUrl(cited_by_api_url):
     
 
 # this package use to parse cited_by_api_url
-cited_by_api_url = "https://api.openalex.org/works?filter=cites:W2939308062"
-z = parseCitedByApiUrl(cited_by_api_url)
-print(z)
+# cited_by_api_url = "https://api.openalex.org/works?filter=cites:W2939308062"
+# z = parseCitedByApiUrl(cited_by_api_url)
+# print(z)
 

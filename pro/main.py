@@ -4,12 +4,19 @@ import json
 from logging import exception
 
 # local package
-from log import Logger 
+from log import Logger
+from toolFunc import ParseAuthor 
 from toolFunc import ParseWork
+from parseUrl import parseCitedByApiUrl
 
 
 # get results content
-def getResults(results):
+def getResultsWork(results):
+    """Get entities of work
+
+    Args:
+        results (strs): it depends on the number of we want return,need to be improved
+    """
     for result in results:
         id = ParseWork.getId(result)
         publication_year = ParseWork.getPublicationYear(result)
@@ -18,11 +25,32 @@ def getResults(results):
         abstract = ParseWork.getAbstract(result)
         print(id,publication_year,institutions_author,countrycode_author,cited_by_api_url)  
         print(abstract)  
+        print(firstauthor)
+        
+        subject = parseCitedByApiUrl(cited_by_api_url)
+        print(subject)
+        
         break
     
+def getResultsAuthor(results):
+    """Get entities of author
+
+    Args:
+        results (restlt): list of x_concepts
+
+    Returns:
+        dict: {authorid:subject}
+    """
+    AuthorConcepts = {}
+    for result in results:
+        authorId,authorConcept = ParseAuthor.getResultsAuthor(result)
+        AuthorConcepts[authorId] = authorConcept
+        print(AuthorConcepts)
+    return AuthorConcepts
+        
 
 # get the request from cursorpage 
-def getResponse(url):
+def getResponseWork(workUrl):
     """_summary_
 
     Args:
@@ -31,12 +59,31 @@ def getResponse(url):
     Returns:
         str,json: cur is next cursor, results is the result of this work
     """
-    resp = requests.get(url).json()
+    resp = requests.get(workUrl).json()
     print(resp["meta"])
     
     cur = resp["meta"]["next_cursor"]
-    results = resp["results"]
-    return cur,results
+    resultsWork = resp["results"]
+    return cur,resultsWork
+
+
+def getResponseAuthor(AuthorIdUrl):
+    """Get response from authorid url
+
+    Args:
+        AuthorIdUrl (str): authorid url
+
+    Returns:
+        list: list of x_concepts
+    """
+    resp = requests.get(AuthorIdUrl).json()
+    print(resp["x_concepts"],type(resp["x_concepts"]))
+    resultsAuthor = resp["x_concepts"]
+    return resultsAuthor
+    
+
+
+
 
 # result to files
 def writeResq(res):
@@ -82,12 +129,23 @@ if __name__ == '__main__':
     while cur:
         count = count + 1
         print(count)
-        newUrl = url + cur
-        print("url is :",newUrl)
-        cur,results = getResponse(newUrl)
         
-        getResults(results)
+        ####################################         Work Part         ###################################
+        workUrl = url + cur
+        print("url is :",workUrl)
+        cur,resultsWork = getResponseWork(workUrl)
+        getResultsWork(resultsWork)
         
+        
+        ####################################         Author Part         ###################################
+        AuthorIdUrl = "https://api.openalex.org/authors/A2903904671" 
+        
+        resultsAuthor = getResponseAuthor(AuthorIdUrl)
+        AuthorConcepts = getResultsAuthor(resultsAuthor)
+        
+        
+        ####################################         other Parts         ###################################
+
         # print(cur,type(cur))
         # writeResq(results) 
         break
