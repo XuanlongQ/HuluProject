@@ -5,7 +5,7 @@ import json
 
 # local package
 from log import Logger 
-from toolFunc import FindConcept
+from toolFunc import ParseWork
 
 """
 Get information from api url
@@ -26,10 +26,10 @@ def chooseMethod(method = 1):
     """
     if method == 1:
         # method 1 - find the most top level concept 
-        return FindConcept.findTopLevel
+        return ParseWork.findTopLevel
     else:
         # method 2 - find the highest score concept 
-        return FindConcept.findHighestScoreConcept
+        return ParseWork.findHighestScoreConcept
 
 def parseCitedByApiUrl(cited_by_api_url):
     """ Use to get the cited papers' id and subject
@@ -50,12 +50,11 @@ def parseCitedByApiUrl(cited_by_api_url):
     results = resp["results"]
     
     for result in results:
-        concepts = result["concepts"]
         id = result["id"] # str
         
         # choose Method 1 default
         chosenConcept = chooseMethod(1)
-        conceptValue = chosenConcept(concepts)
+        conceptValue = chosenConcept(result)
         print(conceptValue)
         
         referencePaperSubject[id] = conceptValue  # choose your method
@@ -73,7 +72,7 @@ def parseCitedByApiUrl(cited_by_api_url):
     
 
 # this package use to parse cited_by_api_url
-# cited_by_api_url = "https://api.openalex.org/works?filter=cites:W2939308062"
-# z = parseCitedByApiUrl(cited_by_api_url)
-# print(z)
+cited_by_api_url = "https://api.openalex.org/works?filter=cites:W2939308062"
+z = parseCitedByApiUrl(cited_by_api_url)
+print(z)
 

@@ -11,7 +11,7 @@ from parseUrl import parseCitedByApiUrl
 
 
 # get results content
-def getResultsWork(results):
+def  getResultsWork(results):
     """Get entities of work
 
     Args:
@@ -81,9 +81,6 @@ def getResponseAuthor(AuthorIdUrl):
     resultsAuthor = resp["x_concepts"]
     return resultsAuthor
     
-
-
-
 
 # result to files
 def writeResq(res):
