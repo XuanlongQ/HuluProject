@@ -55,7 +55,7 @@ def parseCitedByApiUrl(cited_by_api_url):
         # choose Method 1 default
         chosenConcept = chooseMethod(1)
         conceptValue = chosenConcept(result)
-        print(conceptValue)
+        # print(conceptValue)
         
         referencePaperSubject[id] = conceptValue  # choose your method
     # print(referencePaperSubject) # get the dict of different id for their subject
@@ -72,7 +72,7 @@ def parseCitedByApiUrl(cited_by_api_url):
     
 
 # this package use to parse cited_by_api_url
-cited_by_api_url = "https://api.openalex.org/works?filter=cites:W2939308062"
-z = parseCitedByApiUrl(cited_by_api_url)
-print(z)
+# cited_by_api_url = "https://api.openalex.org/works?filter=cites:W2939308062"
+# z = parseCitedByApiUrl(cited_by_api_url)
+# print(z)
 

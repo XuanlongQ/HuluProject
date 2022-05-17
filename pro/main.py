@@ -5,9 +5,9 @@ from logging import exception
 
 # local package
 from log import Logger
-from toolFunc import ParseAuthor 
-from toolFunc import ParseWork
+from toolFunc import ParseAuthor, ParseWork
 from parseUrl import parseCitedByApiUrl
+from DoInterdisplinaryWork import getDisplineWork
 
 
 # get results content
@@ -131,14 +131,14 @@ if __name__ == '__main__':
         workUrl = url + cur
         print("url is :",workUrl)
         cur,resultsWork = getResponseWork(workUrl)
-        getResultsWork(resultsWork)
+        # getResultsWork(resultsWork)
+        getDisplineWork(resultsWork)
         
         
         ####################################         Author Part         ###################################
-        AuthorIdUrl = "https://api.openalex.org/authors/A2903904671" 
-        
-        resultsAuthor = getResponseAuthor(AuthorIdUrl)
-        AuthorConcepts = getResultsAuthor(resultsAuthor)
+        # AuthorIdUrl = "https://api.openalex.org/authors/A2903904671" 
+        # resultsAuthor = getResponseAuthor(AuthorIdUrl)
+        # AuthorConcepts = getResultsAuthor(resultsAuthor)
         
         
         ####################################         other Parts         ###################################

@@ -11,6 +11,7 @@ Mainly focus on five basic entities
 """
 log = Logger('pro/logdata/all.log',level='debug')
 
+MIT = "https://ror.org/042nb2s44"
 
 class ParseWork:
     """ parse all the items from work entity
@@ -92,7 +93,32 @@ class ParseWork:
         cited_by_api_url = result["cited_by_api_url"] # references cited in the data
         return cited_by_api_url
     
+    @staticmethod
+    def getAuthorship(result):
+        """Use to pop first author instutition informations
+
+        Args:
+            result (json): content from responses' result
+
+        Returns:
+            list: institutions
+        """
+        authorships = result["authorships"]
+        for authorship in authorships:
+            # print("authorship si type:",type(authorship))
+            try:
+                if authorship["author_position"] == "first":
+                    institutions = authorship["institutions"]
+                    print(type(institutions))
+                    return institutions
+                else:
+                    log.logger.info("this is authors from non-first author.")
+                    continue
+            except Exception as e:
+                print("Return pop first author error:",e)
+                Logger('pro/logdata/error.log', level='error').logger.error(e) 
     
+   
     """Two methods to find concept
 
     Returns:
@@ -172,8 +198,8 @@ class ParseAuthor:
         """
         authorId = result["id"]
         authorConcept = result["display_name"]
-        print(authorId,type(authorId))
-        print(authorConcept,type(authorConcept))
+        # print(authorId,type(authorId))
+        # print(authorConcept,type(authorConcept))
         return authorId,authorConcept # str,str
     
     
