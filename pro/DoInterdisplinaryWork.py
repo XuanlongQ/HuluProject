@@ -5,7 +5,7 @@ from parseUrl import chooseMethod,parseCitedByApiUrl
 
 
 MIT = "https://ror.org/042nb2s44"
-Stanford = "https://ror.org/00f54p054"
+# Stanford = "https://ror.org/00f54p054"
 
 
 def getDisplineWork(results):
@@ -24,7 +24,6 @@ def getDisplineWork(results):
             if institution["ror"] == MIT:
                 displineWork = getPaper_citedConcptes(result)
                 writeResq(displineWork)
-                
             else:
                 continue
             

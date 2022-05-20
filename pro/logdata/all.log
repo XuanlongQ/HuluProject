@@ -626,3 +626,123 @@
 2022-05-20 16:36:17,381 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
 2022-05-20 16:36:17,381 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
 2022-05-20 16:36:17,381 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:24,469 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 16:40:24,469 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 16:40:24,469 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 16:40:24,469 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 16:40:24,469 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 16:40:24,469 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 16:40:24,469 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:24,469 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:24,469 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,676 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 16:40:25,676 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 16:40:25,676 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 16:40:25,677 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 16:40:25,678 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,678 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 16:40:25,678 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:162] - INFO: return top level concept.
+2022-05-20 19:10:22,895 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:10:22,895 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:10:22,895 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:10:22,897 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:10:22,897 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:10:22,897 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:10:22,897 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:22,897 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:22,897 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,129 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:10:43,129 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:10:43,129 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:10:43,129 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,129 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,129 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,129 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,129 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,129 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,129 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,129 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,129 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,130 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,130 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,130 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,130 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:10:43,130 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:10:43,130 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:10:43,130 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,130 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:10:43,130 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:37,571 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:44:37,571 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:44:37,571 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:44:37,573 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:44:37,573 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:44:37,573 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:44:37,573 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:37,573 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:37,573 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,703 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:44:38,703 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:44:38,703 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:44:38,704 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,704 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,704 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,704 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,704 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,704 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,704 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,704 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,704 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,704 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,704 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,704 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,705 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:44:38,705 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:44:38,705 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:44:38,705 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,705 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:44:38,705 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:26,728 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:45:26,728 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:45:26,728 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:45:26,729 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:45:26,729 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:45:26,729 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:45:26,730 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:26,730 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:26,730 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,796 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:45:27,796 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:45:27,796 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
+2022-05-20 19:45:27,797 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,797 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,797 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,797 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,797 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,797 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,797 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,797 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,797 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,797 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,797 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,797 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,798 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:45:27,798 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:45:27,798 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:63] - INFO: return papers' id,subject,type dict.
+2022-05-20 19:45:27,798 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,798 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.
+2022-05-20 19:45:27,798 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:163] - INFO: return top level concept.

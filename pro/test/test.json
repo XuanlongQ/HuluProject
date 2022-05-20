@@ -1,10 +1,10 @@
-{
+[{
     "https://openalex.org/W3085078362": {
         "papers_concept": "Political science",
         "papers_citedconcepts": {},
         "papers_citedcounts": 0
     }
-}{
+},{
     "https://openalex.org/W3097306519": {
         "papers_concept": "Physics",
         "papers_citedconcepts": {
@@ -13,4 +13,4 @@
         },
         "papers_citedcounts": 3
     }
-}
+}]

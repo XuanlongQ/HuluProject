@@ -119,7 +119,18 @@ if __name__ == '__main__':
         print("url is :",workUrl)
         cur,resultsWork = getResponseWork(workUrl)
         # getResultsWork(resultsWork)
+        
+        with open("pro/experimentdata/mit.json","a+",encoding= "utf-8") as f:
+            f.write("[")
+            f.close()
+            
         getDisplineWork(resultsWork)
+        
+        with open("pro/experimentdata/mit.json","a+",encoding= "utf-8") as f:
+            f.write("]")
+            f.close()
+        
+        
         
         
         ####################################         Author Part         ###################################

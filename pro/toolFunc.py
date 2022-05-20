@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import json
+import os
 from logging import exception
 
 
@@ -39,6 +40,7 @@ class ParseWork:
             print("Return abstract error:",e)
             Logger('pro/logdata/error.log', level='error').logger.error(e) 
     
+    @staticmethod
     def getCitedByCount(result):
         """Get works' cited counts
 
@@ -131,7 +133,6 @@ class ParseWork:
                 print("Return pop first author error:",e)
                 Logger('pro/logdata/error.log', level='error').logger.error(e) 
     
-   
     """Two methods to find concept
 
     Returns:
@@ -235,9 +236,11 @@ def writeResq(res):
         res (None): no return value
     """
     try:
-        with open("pro/experimentdata/test1.json","a+",encoding= "utf-8") as f:
+        with open("pro/experimentdata/mit.json","a+",encoding= "utf-8") as f:
             json.dump(res, f, indent=4)
+            f.write(",")
             f.close()
+                
     except Exception as e:
         print("write error:",e)
         Logger('pro/logdata/error.log', level='error').logger.error(e)
