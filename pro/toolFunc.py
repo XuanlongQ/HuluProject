@@ -1,6 +1,8 @@
 #!/usr/bin/python
 
+import json
 from logging import exception
+
 
 # local package
 from log import Logger 
@@ -11,7 +13,6 @@ Mainly focus on five basic entities
 """
 log = Logger('pro/logdata/all.log',level='debug')
 
-MIT = "https://ror.org/042nb2s44"
 
 class ParseWork:
     """ parse all the items from work entity
@@ -37,7 +38,19 @@ class ParseWork:
         except Exception as e:
             print("Return abstract error:",e)
             Logger('pro/logdata/error.log', level='error').logger.error(e) 
-                      
+    
+    def getCitedByCount(result):
+        """Get works' cited counts
+
+        Args:
+            result (json): response from url
+
+        Returns:
+            int: cited_by_count
+        """
+        cited_by_count = result["cited_by_count"]
+        return cited_by_count
+  
     @staticmethod
     def getId(result):
         """get unique id in openAlex
@@ -82,17 +95,17 @@ class ParseWork:
     
     @staticmethod
     def getCitedByApiUrl(result):
-        """get cited papers' url
+        """Get cited paper from works
 
         Args:
             result (json): response from url
 
         Returns:
-            str: the url of cited papers
+            str: cited_by_api_url
         """
         cited_by_api_url = result["cited_by_api_url"] # references cited in the data
         return cited_by_api_url
-    
+      
     @staticmethod
     def getAuthorship(result):
         """Use to pop first author instutition informations
@@ -109,7 +122,7 @@ class ParseWork:
             try:
                 if authorship["author_position"] == "first":
                     institutions = authorship["institutions"]
-                    print(type(institutions))
+                    # print(type(institutions))
                     return institutions
                 else:
                     log.logger.info("this is authors from non-first author.")
@@ -180,7 +193,7 @@ class ParseWork:
             print("Return top Content error:",e)
             Logger('pro/logdata/error.log', level='error').logger.error(e) 
         
-                    
+         
                 
 class ParseAuthor:
     """Parse the content of Author Id
@@ -213,4 +226,20 @@ class ParseInstitution:
 class ParseConcept:
     pass
    
-            
+   
+# result to files
+def writeResq(res):
+    """write json to file 
+
+    Args:
+        res (None): no return value
+    """
+    try:
+        with open("pro/experimentdata/test1.json","a+",encoding= "utf-8") as f:
+            json.dump(res, f, indent=4)
+            f.close()
+    except Exception as e:
+        print("write error:",e)
+        Logger('pro/logdata/error.log', level='error').logger.error(e)
+        
+        

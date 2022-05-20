@@ -15,21 +15,21 @@ log = Logger('pro/logdata/all.log',level='debug')
 
 
 
-def chooseMethod(method = 1):
+def chooseMethod(result,method = 1):
     """choose the subject by which method,default use top level
 
     Args:
         method (int, optional): _description_. Defaults to 1.
-
+        result(json): response from url
     Returns:
-        func: the method
+        str: the method and its concept
     """
     if method == 1:
         # method 1 - find the most top level concept 
-        return ParseWork.findTopLevel
+        return ParseWork.findTopLevel(result)
     else:
         # method 2 - find the highest score concept 
-        return ParseWork.findHighestScoreConcept
+        return ParseWork.findHighestScoreConcept(result)
 
 def parseCitedByApiUrl(cited_by_api_url):
     """ Use to get the cited papers' id and subject
@@ -46,15 +46,13 @@ def parseCitedByApiUrl(cited_by_api_url):
     
     log.logger.info("get cited_by_api_url papaers' id, papers' subject.")
     
-    meta = resp["meta"]  # - delete  
     results = resp["results"]
     
     for result in results:
         id = result["id"] # str
         
         # choose Method 1 default
-        chosenConcept = chooseMethod(1)
-        conceptValue = chosenConcept(result)
+        conceptValue = chooseMethod(result,1)
         # print(conceptValue)
         
         referencePaperSubject[id] = conceptValue  # choose your method

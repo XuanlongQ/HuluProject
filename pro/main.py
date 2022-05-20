@@ -5,7 +5,7 @@ from logging import exception
 
 # local package
 from log import Logger
-from toolFunc import ParseAuthor, ParseWork
+from toolFunc import ParseAuthor, ParseWork,writeResq
 from parseUrl import parseCitedByApiUrl
 from DoInterdisplinaryWork import getDisplineWork
 
@@ -60,7 +60,7 @@ def getResponseWork(workUrl):
         str,json: cur is next cursor, results is the result of this work
     """
     resp = requests.get(workUrl).json()
-    print(resp["meta"])
+    # print(resp["meta"])
     
     cur = resp["meta"]["next_cursor"]
     resultsWork = resp["results"]
@@ -77,25 +77,12 @@ def getResponseAuthor(AuthorIdUrl):
         list: list of x_concepts
     """
     resp = requests.get(AuthorIdUrl).json()
-    print(resp["x_concepts"],type(resp["x_concepts"]))
+    # print(resp["x_concepts"],type(resp["x_concepts"]))
     resultsAuthor = resp["x_concepts"]
     return resultsAuthor
     
 
-# result to files
-def writeResq(res):
-    """write json to file 
 
-    Args:
-        res (None): no return value
-    """
-    try:
-        with open("pro/experimentdata/test1.json","a+",encoding= "utf-8") as f:
-            json.dump(res, f, indent=4)
-            f.close()
-    except Exception as e:
-        print("write error:",e)
-        Logger('pro/logdata/error.log', level='error').logger.error(e)
     
 
 if __name__ == '__main__':
@@ -139,7 +126,6 @@ if __name__ == '__main__':
         # AuthorIdUrl = "https://api.openalex.org/authors/A2903904671" 
         # resultsAuthor = getResponseAuthor(AuthorIdUrl)
         # AuthorConcepts = getResultsAuthor(resultsAuthor)
-        
         
         ####################################         other Parts         ###################################
 
