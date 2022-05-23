@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import requests
 import json
+import time
 from logging import exception
 
 # local package
@@ -26,7 +27,6 @@ def  getResultsWork(results):
         print(id,publication_year,institutions_author,countrycode_author,cited_by_api_url)  
         print(abstract)  
         print(firstauthor)
-        
         subject = parseCitedByApiUrl(cited_by_api_url)
         print(subject)
         
@@ -93,7 +93,17 @@ if __name__ == '__main__':
     for url in urls:
         pass
     
-    url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=10&filter=publication_year:2020,institutions.ror:https://ror.org/042nb2s44&cursor="
+    # mit url
+    # url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=20&filter=publication_year:2020,institutions.ror:https://ror.org/042nb2s44&cursor="
+    
+    # oxford url
+    url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=100&filter=publication_year:2020,institutions.ror:https://ror.org/052gg0110&cursor="
+    
+    # Munich
+    # url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=20&filter=publication_year:2020,institutions.ror:https://ror.org/02kkvpp62&cursor="
+    
+    # Denmark
+    # url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=20&filter=publication_year:2020,institutions.ror:https://ror.org/04qtj9h94&cursor="
     
     """
     # Add the mailto=you@example.com parameter in your API request, like this: https://api.openalex.org/works?mailto=you@example.com
@@ -111,27 +121,27 @@ if __name__ == '__main__':
     cur = "*"
     # writeResq(res)
     while cur:
+        start =time.clock()
         count = count + 1
         print(count)
         
         ####################################         Work Part         ###################################
         workUrl = url + cur
         print("url is :",workUrl)
-        cur,resultsWork = getResponseWork(workUrl)
-        # getResultsWork(resultsWork)
-        
-        with open("pro/experimentdata/mit.json","a+",encoding= "utf-8") as f:
-            f.write("[")
-            f.close()
+        print("cur is:",cur)
+        try:
+            cur,resultsWork = getResponseWork(workUrl)
+        except Exception as e:
+            print("Can not get correct response:",e)
+            Logger('pro/logdata/error.log', level='error').logger.error(e)
             
+        # getResultsWork(resultsWork)   
+              
         getDisplineWork(resultsWork)
+        end = time.clock()
         
-        with open("pro/experimentdata/mit.json","a+",encoding= "utf-8") as f:
-            f.write("]")
-            f.close()
-        
-        
-        
+        print('Running time: %s Seconds'%(end-start))
+
         
         ####################################         Author Part         ###################################
         # AuthorIdUrl = "https://api.openalex.org/authors/A2903904671" 
@@ -142,7 +152,7 @@ if __name__ == '__main__':
 
         # print(cur,type(cur))
         # writeResq(results) 
-        break
+        
         
 
         

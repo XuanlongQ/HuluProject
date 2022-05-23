@@ -3,14 +3,11 @@ import json
 
 import csv
 
-path ="pro/test/test.json"
-
-
-
+path ="pro/experimentdata/Denmark.json"
 
 
 def writetoCsv(papers_concept,papers_citedconcepts):
-    file2 = open('cav_file.csv', 'a+', encoding='utf-8', newline="")
+    file2 = open('csv_file_Denmark.csv', 'a+', encoding='utf-8', newline="")
     csv_write = csv.writer(file2)
     for k,v in papers_citedconcepts.items():
         # print(k,v)

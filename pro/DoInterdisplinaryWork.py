@@ -5,7 +5,9 @@ from parseUrl import chooseMethod,parseCitedByApiUrl
 
 
 MIT = "https://ror.org/042nb2s44"
-# Stanford = "https://ror.org/00f54p054"
+Oxford = "https://ror.org/052gg0110"
+Munich = "https://ror.org/02kkvpp62"
+Denmark = "https://ror.org/04qtj9h94"
 
 
 def getDisplineWork(results):
@@ -20,13 +22,17 @@ def getDisplineWork(results):
     for result in results:
         global MIT
         institutions = ParseWork.getAuthorship(result) # get first author
-        for institution in institutions:
-            if institution["ror"] == MIT:
-                displineWork = getPaper_citedConcptes(result)
-                writeResq(displineWork)
-            else:
-                continue
+        if len(institutions):
+            institution = institutions[0]
             
+            for institution in institutions:
+                if institution["ror"] == Oxford:
+                    displineWork = getPaper_citedConcptes(result)
+                    writeResq(displineWork)
+                else:
+                    continue
+        else:
+            continue
           
     
 def getPaper_citedConcptes(result):
@@ -48,25 +54,24 @@ def getPaper_citedConcptes(result):
     cited_by_api_url = ParseWork.getCitedByApiUrl(result)# get  authors' cited paper 
     paperList = parseCitedByApiUrl(cited_by_api_url) # get cited paper list and parse it
     
-    for _,paperConcept in paperList.items():
-        if paperConcept in paperField:
-            paperField[paperConcept] += 1
-        else:
-            paperField[paperConcept] = 1
-            
-    # choose Method 1 default，return works' paper concepy
-    PaperConceptValue = chooseMethod(result,1)
-    
-    cited_by_count = ParseWork.getCitedByCount(result)
-    
-    id_paperField["papers_concept"] = PaperConceptValue
-    id_paperField["papers_citedconcepts"] = paperField
-    id_paperField["papers_citedcounts"] = cited_by_count
-    
-    id = ParseWork.getId(result)  # papers' Alex ID
-    id_conceptes_citedconcepts[id] = id_paperField
-    
-    return id_conceptes_citedconcepts
-
-
+    if paperList is not None:
+        for _,paperConcept in paperList.items():
+            if paperConcept in paperField:
+                paperField[paperConcept] += 1
+            else:
+                paperField[paperConcept] = 1
+                
+        # choose Method 1 default，return works' paper concepy
+        PaperConceptValue = chooseMethod(result,1)
+        
+        cited_by_count = ParseWork.getCitedByCount(result)
+        
+        id_paperField["papers_concept"] = PaperConceptValue
+        id_paperField["papers_citedconcepts"] = paperField
+        id_paperField["papers_citedcounts"] = cited_by_count
+        
+        id = ParseWork.getId(result)  # papers' Alex ID
+        id_conceptes_citedconcepts[id] = id_paperField
+        
+        return id_conceptes_citedconcepts
     

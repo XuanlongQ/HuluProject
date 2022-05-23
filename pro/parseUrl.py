@@ -42,28 +42,24 @@ def parseCitedByApiUrl(cited_by_api_url):
     """
     referencePaperSubject = {}
     
-    resp = requests.get(cited_by_api_url).json()
-    
-    log.logger.info("get cited_by_api_url papaers' id, papers' subject.")
-    
-    results = resp["results"]
-    
-    for result in results:
-        id = result["id"] # str
-        
-        # choose Method 1 default
-        conceptValue = chooseMethod(result,1)
-        # print(conceptValue)
-        
-        referencePaperSubject[id] = conceptValue  # choose your method
-    # print(referencePaperSubject) # get the dict of different id for their subject
-    #  print(meta,type(meta))
-    # print(results,type(results))
     try:
+        resp = requests.get(cited_by_api_url).json()
+        log.logger.info("get cited_by_api_url papaers' id, papers' subject.")
+        results = resp["results"]
+        for result in results:
+            id = result["id"] # str
+            # choose Method 1 default
+            conceptValue = chooseMethod(result,1)
+            referencePaperSubject[id] = conceptValue  # choose your method
+            
+        # print(referencePaperSubject) # get the dict of different id for their subject
+        #  print(meta,type(meta))
+        # print(results,type(results))
+    
         log.logger.info("return papers' id,subject,type dict.")
         return referencePaperSubject # top level, str
     except Exception as e:
-        print("Return papers' id and suject error:",e)
+        print("parse cited url error:",e)
         Logger('pro/logdata/error.log', level='error').logger.error(e) 
     
 
