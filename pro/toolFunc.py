@@ -18,6 +18,12 @@ log = Logger('pro/logdata/all.log',level='debug')
 class ParseWork:
     """ parse all the items from work entity
     """
+    
+    @staticmethod
+    def getReferencedWorks(result):
+        referencedWorks = result["referenced_works"]
+        return referencedWorks
+    
     @staticmethod
     def getAbstract(result):
         """_summary_
@@ -149,16 +155,15 @@ class ParseWork:
         Returns:
             str: top level subject
         """
-        concepts = result["concepts"]
-        conceptDict = {}
-        for concept in concepts:
-            subject = concept["display_name"]
-            level = concept["level"]
-            conceptDict[subject] = int(level)
-        conceptList = sorted(conceptDict.items(), key = lambda kv:(kv[1], kv[0]),reverse=False) # sorted conceptlist,list
-        # print(conceptList,type(conceptList))
-        
         try:
+            concepts = result["concepts"]
+            conceptDict = {}
+            for concept in concepts:
+                subject = concept["display_name"]
+                level = concept["level"]
+                conceptDict[subject] = int(level)
+            conceptList = sorted(conceptDict.items(), key = lambda kv:(kv[1], kv[0]),reverse=False) # sorted conceptlist,list
+            # print(conceptList,type(conceptList))  
             topLevel = conceptList[0][0]
             log.logger.info("return top level concept.")
             return topLevel # top level, str
@@ -176,20 +181,20 @@ class ParseWork:
         Returns:
             str: highest score subject
         """
-        concepts = result["concepts"]
-        conceptDict = {}
-        for concept in concepts:
-            subject = concept["display_name"]
-            score = concept["score"]
-            conceptDict[subject] = float(score)
-            #print(concept,type(concept))
-        conceptList = sorted(conceptDict.items(), key = lambda kv:(kv[1], kv[0]),reverse=True) # sorted conceptlist,list
-        # print(conceptList,type(conceptList))    
-        
         try:
+            concepts = result["concepts"]
+            conceptDict = {}
+            for concept in concepts:
+                subject = concept["display_name"]
+                score = concept["score"]
+                conceptDict[subject] = float(score)
+                #print(concept,type(concept))
+            conceptList = sorted(conceptDict.items(), key = lambda kv:(kv[1], kv[0]),reverse=True) # sorted conceptlist,list
+            # print(conceptList,type(conceptList))    
             HighestScoreConcept = conceptList[0][0]
             log.logger.info("return highest score concept.")
             return HighestScoreConcept # Highest Score, str
+        
         except Exception as e:
             print("Return top Content error:",e)
             Logger('pro/logdata/error.log', level='error').logger.error(e) 
@@ -236,7 +241,7 @@ def writeResq(res):
         res (None): no return value
     """
     try:
-        with open("pro/experimentdata/OxfordTest.json","a+",encoding= "utf-8") as f:
+        with open("pro/experimentdata/referencedDenmarkTest.json","a+",encoding= "utf-8") as f:
             json.dump(res, f, indent=4)
             f.write(",")
             f.close()
