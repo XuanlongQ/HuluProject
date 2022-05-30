@@ -2,11 +2,13 @@
 
 import json
 import os
+import requests
 from logging import exception
 
 
+
 # local package
-from log import Logger 
+from log import Logger
 
 """
 Get information through openAlex ID
@@ -69,8 +71,17 @@ class ParseWork:
         Returns:
             str: unique id
         """
-        id = result["id"]  # unique paper ID, str
-        return id
+        try:
+            id = result["id"]  # unique paper ID, str
+            if id:
+                return id
+            else:
+                return None
+        except Exception as e:
+            print("Can not get paper id error:",e)
+            Logger('pro/logdata/error.log', level='error').logger.error(e) 
+
+            
     
     @staticmethod
     def getPublicationYear(result):
@@ -131,7 +142,10 @@ class ParseWork:
                 if authorship["author_position"] == "first":
                     institutions = authorship["institutions"]
                     # print(type(institutions))
-                    return institutions
+                    if institutions:
+                        return institutions
+                    else:
+                        return None
                 else:
                     log.logger.info("this is authors from non-first author.")
                     continue
@@ -250,4 +264,18 @@ def writeResq(res):
         print("write error:",e)
         Logger('pro/logdata/error.log', level='error').logger.error(e)
         
+        
+def getResponse(url):
+    try:
+        resp = requests.get(url)
+        if resp.status_code == 200:
+            return resp
+        else:
+            return None
+        
+    except Exception as e:
+        print("Can not get response:",e)
+        Logger('pro/logdata/error.log', level='error').logger.error(e)
+    
+    
         

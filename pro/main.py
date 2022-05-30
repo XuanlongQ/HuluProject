@@ -6,7 +6,7 @@ from logging import exception
 
 # local package
 from log import Logger
-from toolFunc import ParseAuthor, ParseWork,writeResq
+from toolFunc import ParseAuthor, ParseWork,writeResq,getResponse
 from parseUrl import parseCitedByApiUrl
 from DoInterdisplinaryWork import getDisplineWork
 from doReferenceWork import getReferenceWork
@@ -60,12 +60,14 @@ def getResponseWork(workUrl):
     Returns:
         str,json: cur is next cursor, results is the result of this work
     """
-    resp = requests.get(workUrl).json()
+    resp = requests.get(workUrl)
+    print(resp.status_code,type(resp.status_code))
+    
     # print(resp["meta"])
     
-    cur = resp["meta"]["next_cursor"]
-    resultsWork = resp["results"]
-    return cur,resultsWork
+    # cur = resp["meta"]["next_cursor"]
+    # resultsWork = resp["results"]
+    return cur,resp
 
 
 def getResponseAuthor(AuthorIdUrl):
@@ -105,7 +107,6 @@ if __name__ == '__main__':
     
     # Denmark
     url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=200&filter=publication_year:2020,institutions.ror:https://ror.org/04qtj9h94&cursor="
-    
     """
     # Add the mailto=you@example.com parameter in your API request, like this: https://api.openalex.org/works?mailto=you@example.com
 	# Use polite pool
@@ -126,23 +127,30 @@ if __name__ == '__main__':
         
         count = count + 1
         print(count)
-        
         ####################################         Work Part         ###################################
         workUrl = url + cur
         print("url is :",workUrl)
         print("cur is:",cur)
-        try:
-            cur,resultsWork = getResponseWork(workUrl)
-        except Exception as e:
-            print("Can not get correct response:",e)
-            Logger('pro/logdata/error.log', level='error').logger.error(e)
+        
+        resultRespone = getResponse(workUrl)
+        if resultRespone:
+            data = resultRespone.json()
+            cur = data["meta"]["next_cursor"]
+            resultsWork = data["results"]
+            print(cur)
+        # else:
+        #     continue
             
         # getResultsWork(resultsWork)   
         # getDisplineWork(resultsWork)
+        # if count  < 19 :
+        #     pass
+        # else:
         getReferenceWork(resultsWork)
+            
         end = time.time()
-        
         print('Running time: %s Seconds'%(end-start))
+       
         
         
         
@@ -161,3 +169,4 @@ if __name__ == '__main__':
         
     
 
+    

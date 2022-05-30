@@ -1,0 +1,10 @@
+https://openalex.org/W3095157763,Computer science,https://openalex.org/W2791819801,Nuclear engineering
+https://openalex.org/W3095157763,Computer science,https://openalex.org/W3023217740,Computer science
+https://openalex.org/W3095157763,Computer science,https://openalex.org/W1940496428,Environmental science
+https://openalex.org/W3095157763,Computer science,https://openalex.org/W2012136380,Environmental science
+https://openalex.org/W3095157763,Computer science,https://openalex.org/W3142728954,Computer science
+https://openalex.org/W3095157763,Computer science,https://openalex.org/W2063343512,Business
+https://openalex.org/W3095157763,Computer science,https://openalex.org/W2621218899,Business
+https://openalex.org/W3095157763,Computer science,https://openalex.org/W2765118136,Business
+https://openalex.org/W3095157763,Computer science,https://openalex.org/W1970203636,Computer science
+https://openalex.org/W3095157763,Computer science,https://openalex.org/W2567881914,Business
