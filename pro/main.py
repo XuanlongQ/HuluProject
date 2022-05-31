@@ -6,7 +6,7 @@ from logging import exception
 
 # local package
 from log import Logger
-from toolFunc import ParseAuthor, ParseWork,getResponse
+from toolFunc import ParseAuthor,ParseWork,getResponse
 from parseUrl import parseCitedByApiUrl
 from DoInterdisplinaryWork import getDisplineWork
 from doReferenceWork import getReferenceWork
