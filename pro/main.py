@@ -6,7 +6,7 @@ from logging import exception
 
 # local package
 from log import Logger
-from toolFunc import ParseAuthor, ParseWork,writeResq,getResponse
+from toolFunc import ParseAuthor, ParseWork,getResponse
 from parseUrl import parseCitedByApiUrl
 from DoInterdisplinaryWork import getDisplineWork
 from doReferenceWork import getReferenceWork
@@ -97,7 +97,7 @@ if __name__ == '__main__':
         pass
     
     # mit url
-    # url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=200&filter=publication_year:2020,institutions.ror:https://ror.org/042nb2s44&cursor="
+    url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=50&filter=publication_year:2020,institutions.ror:https://ror.org/042nb2s44&cursor="
     
     # oxford url
     # url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=200&filter=publication_year:2020,institutions.ror:https://ror.org/052gg0110&cursor="
@@ -106,7 +106,7 @@ if __name__ == '__main__':
     # url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=200&filter=publication_year:2020,institutions.ror:https://ror.org/02kkvpp62&cursor="
     
     # Denmark
-    url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=200&filter=publication_year:2020,institutions.ror:https://ror.org/04qtj9h94&cursor="
+    # url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=50&filter=publication_year:2020,institutions.ror:https://ror.org/04qtj9h94&cursor="
     """
     # Add the mailto=you@example.com parameter in your API request, like this: https://api.openalex.org/works?mailto=you@example.com
 	# Use polite pool

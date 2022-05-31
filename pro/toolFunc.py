@@ -248,34 +248,46 @@ class ParseConcept:
    
    
 # result to files
-def writeResq(res):
-    """write json to file 
+# def writeResq(res):
+#     """write json to file 
 
-    Args:
-        res (None): no return value
-    """
-    try:
-        with open("pro/experimentdata/referencedDenmarkTest.json","a+",encoding= "utf-8") as f:
-            json.dump(res, f, indent=4)
-            f.write(",")
-            f.close()
+#     Args:
+#         res (None): no return value
+#     """
+#     try:
+#         with open("pro/experimentdata/referencedDenmarkTest.json","a+",encoding= "utf-8") as f:
+#             json.dump(res, f, indent=4)
+#             f.write(",")
+#             f.close()
                 
-    except Exception as e:
-        print("write error:",e)
-        Logger('pro/logdata/error.log', level='error').logger.error(e)
-        
-        
+#     except Exception as e:
+#         print("write error:",e)
+#         Logger('pro/logdata/error.log', level='error').logger.error(e)
+
+      
+NETWORK_STATUS = True # 判断状态变量
+   
 def getResponse(url):
     try:
-        resp = requests.get(url)
+        resp = requests.get(url,timeout=5)
         if resp.status_code == 200:
             return resp
         else:
+            print(resp.status_code)
             return None
-        
-    except Exception as e:
-        print("Can not get response:",e)
-        Logger('pro/logdata/error.log', level='error').logger.error(e)
+    except requests.exceptions.Timeout:
+        global NETWORK_STATUS
+        NETWORK_STATUS = False
+        if NETWORK_STATUS == False:
+            #timeout
+            for i in range(1,10):
+                print("request timeout, the %s repeat!",i)
+                resp = requests.get(url,timeout=5)
+                if resp.status_code == 200:
+                    return resp
+                else:
+                    Logger('pro/logdata/error.log', level='error').logger.error("can not get response")
+
     
     
         
