@@ -248,21 +248,21 @@ class ParseConcept:
    
    
 # result to files
-# def writeResq(res):
-#     """write json to file 
+def writeResq(res):
+    """write json to file 
 
-#     Args:
-#         res (None): no return value
-#     """
-#     try:
-#         with open("pro/experimentdata/referencedDenmarkTest.json","a+",encoding= "utf-8") as f:
-#             json.dump(res, f, indent=4)
-#             f.write(",")
-#             f.close()
+    Args:
+        res (None): no return value
+    """
+    try:
+        with open("pro/experimentdata/referencedDenmarkTest.json","a+",encoding= "utf-8") as f:
+            json.dump(res, f, indent=4)
+            f.write(",")
+            f.close()
                 
-#     except Exception as e:
-#         print("write error:",e)
-#         Logger('pro/logdata/error.log', level='error').logger.error(e)
+    except Exception as e:
+        print("write error:",e)
+        Logger('pro/logdata/error.log', level='error').logger.error(e)
 
       
 NETWORK_STATUS = True # 判断状态变量

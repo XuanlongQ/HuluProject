@@ -36,7 +36,7 @@ def getReferenceWork(results):
                 if institutions:
                     institution = institutions[0]
                     for institution in institutions:
-                        if institution["ror"] == Mit:
+                        if institution["ror"] == Oxford:
                             referenced_work_urls = get_reference_urls(result) # referenced urls list
                             doConcurrent(referenced_work_urls,ori_paper_ID,ori_paper_concept)
             #             else:
@@ -128,7 +128,7 @@ def parse_referenced_work(q,ori_paper_ID,ori_paper_concept):
 
 def writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept):
     try:
-        with open("pro/experimentdata/testMit0531-1.txt","a+",encoding="utf-8") as f:
+        with open("pro/experimentdata/testoxford0604-1.txt","a+",encoding="utf-8") as f:
             f.write(ori_paper_ID + "," + ori_paper_concept+ "," + referenced_paper_id +","+ referenced_paper_concept+ '\n')
             f.close()
     except Exception as e:
