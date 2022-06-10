@@ -12,6 +12,8 @@ from DoInterdisplinaryWork import getDisplineWork
 from doReferenceWork import getReferenceWork
 
 
+
+
 # get results content
 def  getResultsWork(results):
     """Get entities of work
@@ -100,10 +102,10 @@ if __name__ == '__main__':
     # url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=50&filter=publication_year:2020,institutions.ror:https://ror.org/042nb2s44&cursor="
     
     # oxford url
-    url = "https://api.openalex.org/works?mailto=675589296@qq.com&per-page=50&filter=publication_year:2020,institutions.ror:https://ror.org/052gg0110&cursor="
+    #url = "https://api.openalex.org/works?mailto=675589296@qq.com&per-page=50&filter=publication_year:2020,institutions.ror:https://ror.org/052gg0110&cursor="
     
     # Munich
-    # url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=50&filter=publication_year:2020,institutions.ror:https://ror.org/02kkvpp62&cursor="
+    url = "https://api.openalex.org/works?mailto=zd675589295@qq.com&per-page=50&filter=publication_year:2020,institutions.ror:https://ror.org/02kkvpp62&cursor="
     
     # Denmark
     # url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=50&filter=publication_year:2020,institutions.ror:https://ror.org/04qtj9h94&cursor="

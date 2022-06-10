@@ -1,6 +1,4 @@
-
 import json
-
 import csv
 
 path ="pro/experimentdata/referencedDenmarkTest.json"

@@ -1,4 +1,0 @@
-2022-05-17 19:52:14,890 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:47] - INFO: get cited_by_api_url papaers' id, papers' subject.
-2022-05-17 19:52:14,893 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:123] - INFO: return top level concept.
-2022-05-17 19:52:14,893 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/toolFunc.py[line:123] - INFO: return top level concept.
-2022-05-17 19:52:14,893 - /Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/parseUrl.py[line:65] - INFO: return papers' id,subject,type dict.

@@ -43,7 +43,8 @@ def parseCitedByApiUrl(cited_by_api_url):
     referencePaperSubject = {}
     
     try:
-        resp = requests.get(cited_by_api_url).json()
+        respdata = requests.get(cited_by_api_url)
+        resp = respdata.json()
         log.logger.info("get cited_by_api_url papaers' id, papers' subject.")
         results = resp["results"]
         for result in results:
