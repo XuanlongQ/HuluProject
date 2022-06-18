@@ -4,14 +4,14 @@ import json
 
 
 # local package
-from log import Logger 
+# from log import Logger 
 from toolFunc import ParseWork
 
 """
 Get information from api url
 Many items were parsed by a api_url
 """
-log = Logger('pro/logdata/all.log',level='debug')
+#log = Logger('pro/logdata/all.log',level='debug')
 
 
 
@@ -45,7 +45,7 @@ def parseCitedByApiUrl(cited_by_api_url):
     try:
         respdata = requests.get(cited_by_api_url)
         resp = respdata.json()
-        log.logger.info("get cited_by_api_url papaers' id, papers' subject.")
+        #log.logger.info("get cited_by_api_url papaers' id, papers' subject.")
         results = resp["results"]
         for result in results:
             id = result["id"] # str
@@ -57,11 +57,11 @@ def parseCitedByApiUrl(cited_by_api_url):
         #  print(meta,type(meta))
         # print(results,type(results))
     
-        log.logger.info("return papers' id,subject,type dict.")
+        # log.logger.info("return papers' id,subject,type dict.")
         return referencePaperSubject # top level, str
     except Exception as e:
         print("parse cited url error:",e)
-        Logger('pro/logdata/error.log', level='error').logger.error(e) 
+        # Logger('pro/logdata/error.log', level='error').logger.error(e) 
     
 
     

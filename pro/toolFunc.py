@@ -5,17 +5,17 @@ import json
 import random
 import requests
 
-from logging import exception
+#from logging import exception
 
 
 # local package
-from log import Logger
+#from log import Logger
 
 """
 Get information through openAlex ID
 Mainly focus on five basic entities
 """
-log = Logger('pro/logdata/all.log',level='debug')
+#log = Logger('pro/logdata/all.log',level='debug')
 
 
 class ParseWork:
@@ -43,11 +43,11 @@ class ParseWork:
         abstract = str.join(seq) # abstract str
         # print(abstract,type(abstract))
         try:
-            log.logger.info("return abstract.")
+            #log.logger.info("return abstract.")
             return abstract # abstract str
         except Exception as e:
             print("Return abstract error:",e)
-            Logger('pro/logdata/error.log', level='error').logger.error(e) 
+            #Logger('pro/logdata/error.log', level='error').logger.error(e) 
     
     @staticmethod
     def getCitedByCount(result):
@@ -80,7 +80,7 @@ class ParseWork:
                 return None
         except Exception as e:
             print("Can not get paper id error:",e)
-            Logger('pro/logdata/error.log', level='error').logger.error(e) 
+            #Logger('pro/logdata/error.log', level='error').logger.error(e) 
 
             
     
@@ -151,11 +151,11 @@ class ParseWork:
                     else:
                         return None
                 else:
-                    log.logger.info("this is authors from non-first author.")
+                    #log.logger.info("this is authors from non-first author.")
                     continue
             except Exception as e:
                 print("Return pop first author error:",e)
-                Logger('pro/logdata/error.log', level='error').logger.error(e) 
+                #Logger('pro/logdata/error.log', level='error').logger.error(e) 
     
     """Two methods to find concept
 
@@ -183,11 +183,11 @@ class ParseWork:
             conceptList = sorted(conceptDict.items(), key = lambda kv:(kv[1], kv[0]),reverse=False) # sorted conceptlist,list
             # print(conceptList,type(conceptList))  
             topLevel = conceptList[0][0]
-            log.logger.info("return top level concept.")
+            #log.logger.info("return top level concept.")
             return topLevel # top level, str
         except Exception as e:
             print("Return top Content error:",e)
-            Logger('pro/logdata/error.log', level='error').logger.error(e) 
+            #Logger('pro/logdata/error.log', level='error').logger.error(e) 
     
     @staticmethod
     def findHighestScoreConcept(result):
@@ -210,12 +210,12 @@ class ParseWork:
             conceptList = sorted(conceptDict.items(), key = lambda kv:(kv[1], kv[0]),reverse=True) # sorted conceptlist,list
             # print(conceptList,type(conceptList))    
             HighestScoreConcept = conceptList[0][0]
-            log.logger.info("return highest score concept.")
+            #log.logger.info("return highest score concept.")
             return HighestScoreConcept # Highest Score, str
         
         except Exception as e:
             print("Return top Content error:",e)
-            Logger('pro/logdata/error.log', level='error').logger.error(e) 
+            #Logger('pro/logdata/error.log', level='error').logger.error(e) 
         
          
                 
@@ -266,7 +266,7 @@ def writeResq(res):
                 
     except Exception as e:
         print("write error:",e)
-        Logger('pro/logdata/error.log', level='error').logger.error(e)
+        #Logger('pro/logdata/error.log', level='error').logger.error(e)
 
       
 NETWORK_STATUS = True # 判断状态变量
@@ -362,7 +362,7 @@ def getResponse(url):
                 if resp.status_code == 200:
                     return resp
                 else:
-                    Logger('pro/logdata/error.log', level='error').logger.error("can not get response")
+                    #Logger('pro/logdata/error.log', level='error').logger.error("can not get response")
                     return None
     except requests.exceptions.ConnectionError:
         time.sleep(5)
@@ -370,7 +370,7 @@ def getResponse(url):
         if resp.status_code == 200:
             return resp
         else:
-            Logger('pro/logdata/error.log', level='error').logger.error("connect error")
+            #Logger('pro/logdata/error.log', level='error').logger.error("connect error")
             return None
     
     

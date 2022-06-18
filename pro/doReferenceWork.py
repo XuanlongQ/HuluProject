@@ -5,7 +5,7 @@ import sys
 # local
 from toolFunc import ParseWork,getResponse
 from parseUrl import chooseMethod
-from log import Logger
+# from log import Logger
 
 ### threading module
 import queue
@@ -49,7 +49,7 @@ def getReferenceWork(results,university,rorid):
             
     except Exception as e:
         print("Can not get referenced work:",e)
-        Logger('pro/logdata/error.log', level='error').logger.error(e)
+        # Logger('pro/logdata/error.log', level='error').logger.error(e)
 
 def get_reference_urls(result):
     """get a list of reference
@@ -135,7 +135,7 @@ def writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_pap
             f.close()
     except Exception as e:
         print("Can not write to file:",e)
-        Logger('pro/logdata/error.log', level='error').logger.error(e)
+        # Logger('pro/logdata/error.log', level='error').logger.error(e)
                  
     
         

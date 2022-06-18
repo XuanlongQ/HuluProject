@@ -1,10 +1,10 @@
 #!/usr/bin/python
 import requests
 import time
-from logging import exception
+# from logging import exception
 
 # local package
-from log import Logger
+# from log import Logger
 from toolFunc import ParseAuthor,ParseWork,getResponse
 from parseUrl import parseCitedByApiUrl
 from DoInterdisplinaryWork import getDisplineWork
@@ -122,7 +122,7 @@ def workFunc(url,university,rorid):
 
 if __name__ == '__main__':
     rorPath = "docs/iped_grid_ror.txt"
-    log = Logger('pro/logdata/all.log',level='debug')
+    #log = Logger('pro/logdata/all.log',level='debug')
     with open(rorPath,"r",encoding="utf-8") as f:
         data = f.readlines()
         for _ in data:
