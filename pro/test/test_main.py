@@ -4,67 +4,51 @@ import json
 import urllib
 # sys.path.append("..") 
 
+# import urllib.parse
+# url = 'https://api.labs.cognitive.microsoft.com/academic/v1.0/evaluate?'
 
+# data = {
+#     'subscription-key':'2869a9d713e245af845f6272434cfb95',
+#     'expr':'FC.FN=computer science',
+# }
 
-url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=10&filter=publication_year:2020,institutions.ror:https://ror.org/042nb2s44&cursor=*"
+# query_string = urllib.parse.urlencode(data)
+# print(query_string)
+# url1 = url + '&'+query_string
+# print(url1)
 
-resp = requests.get(url).json()
+url = "https://api.labs.cognitive.microsoft.com/academic/v1.0/evaluate?expr=Composite(AA.AuN=='jaime teevan')&count=2&subscription-key='2869a9d713e245af845f6272434cfb95'"
 
-baseUrl = "https://api.openalex.org"
+# endpoint= "https://api.labs.cognitive.microsoft.com/academic/v1.0/evaluate?"
+# expressionEqu = "Composite(FC.FId==40700)"
+# subscribeKey = "&subscription-key=2869a9d713e245af845f6272434cfb95"
 
-payload = {
-    "mailto": "zd675589296@qq.com",
-    "per-page": "10"
+# url = endpoint + expressionEqu + subscribeKey
+
+# 2869a9d713e245af845f6272434cfb95
+
+import http.client, urllib.request, urllib.parse, urllib.error, base64
+
+headers = {
+    # Request headers
+    'Ocp-Apim-Subscription-Key': '2869a9d713e245af845f6272434cfb95',
 }
 
-query_string = urllib.parse.urlencode(payload)
+params = urllib.parse.urlencode({
+    # Request parameters
+    'model': 'latest',
+    'count': '10',
+    'offset': '0',
+    'orderby': '{string}',
+    'attributes': 'Id',
+})
 
-print(query_string)
-
-urls = []
-
-
-
-# # BASE_URL = "https://api.openalex.org"
-# # MAIL_ADDRESS = "mailto=zd675589296@qq.com"
-# # PER_PAGE = "10"
-# INSTITUTION = "institutions.ror:https://ror.org/042nb2s44"
-
-# # # test url - need to be updated to yaml
-# # # https://api.openalex.org/works?filter=institutions.ror:https://ror.org/02y3ad647
-# # testUrl = BASE_URL + "/works?" + MAIL_ADDRESS + "&per-page=" + PER_PAGE + "&filter=publication_year:2020," + INSTITUTION + "&cursor="
-# # # print(testUrl)
-
-# def getResponse(url):
-#     resp2 = requests.get(url)
-#     print(resp2)
-#     resp =  requests.get(url).json()
-    
-#     # output resps' meta info
-#     print(resp["meta"])
-
-
-
-
-
-
-# print(query_string)
-# url = baseUrl + "/works?"+query_string+"&filter=publication_year:2020,"+ INSTITUTION + "&cursor=*"
-# print(url)
-# gen = unquote(url)
-# print(gen)
-
-# getResponse(gen)
-
-
-
-# # https://api.openalex.org/work?mailto=zd675589296@qq.com&per-page=10&filter=publication_year:2020,institutions.ror:https://ror.org/042nb2s44&cursor=*
-
-# # https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=10&filter=publication_year:2020,institutions.ror:https://ror.org/042nb2s44&cursor=*
-
-
-
-
-# # getResponse(url1)
-
-
+try:
+    conn = http.client.HTTPSConnection('api.labs.cognitive.microsoft.com')
+    conn.request("GET", "/academic/v1.0/evaluate?expr={expr}&%s" % params, "Composite(AA.AuN=='jaime teevan')", headers)
+    response = conn.getresponse()
+    data = response.read()
+    print(data)
+    conn.close()
+except Exception as e:
+    print("[Errno {0}] {1}".format(e.errno, e.strerror))

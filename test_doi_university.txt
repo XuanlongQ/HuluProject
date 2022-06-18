@@ -1,0 +1,173 @@
+Harvard University,10.1126/science.1167742
+League of European Research Universities - LERU,10.1073/pnas.1218772110
+George Mason University,10.1177/0037549705058073
+Universita della Svizzera Italiana,10.1109/CVPR.2017.576
+League of European Research Universities - LERU,10.1073/pnas.1418680112
+Duke University,10.1073/pnas.1804840115
+Indiana University System,10.1038/srep02522
+University of Colorado System,10.1177/1461444817712086
+Yale University,10.1073/pnas.1509433112
+University of London,10.1007/s00146-014-0549-4
+Singapore Management University,10.1016/j.dss.2013.08.008
+Stanford University,10.1037/pspa0000098
+University of Surrey,10.1140/epjst/e2012-01697-8
+Harvard University,10.1140/epjds/s13688-017-0110-z
+Otto Friedrich University Bamberg,10.1177/0894439311404119
+Budapest University of Technology & Economics,10.1371/journal.pone.0071226
+Fondazione Bruno Kessler,10.1073/pnas.1803470115
+Technical University of Denmark,10.1073/pnas.1602803113
+Defense Advanced Research Projects Agency,10.1111/j.1468-2486.2009.00914.x
+University of Manchester,10.1080/13645579.2013.774172
+Universita Ca Foscari Venezia,10.1016/j.vaccine.2018.05.040
+League of European Research Universities - LERU,10.1108/AJIM-09-2013-0094
+Cardiff University,10.1177/0038038517708140
+Southeast University - China,10.1016/j.ins.2016.07.007
+Otto Friedrich University Bamberg,10.1108/IntR-06-2013-0115
+Boston University,10.1073/pnas.1324054111
+Stanford University,10.1145/2858036.2858535
+University System of Maryland,10.1007/s10994-013-5413-0
+Microsoft,10.1038/s41562-016-0015
+IMT School for Advanced Studies Lucca,10.1073/pnas.1617052114
+League of European Research Universities - LERU,10.1080/21670811.2015.1096598
+University of Melbourne,10.1037/met0000091
+University of Wisconsin System,10.1177/0002716215572084
+Northeastern University,10.1146/annurev-soc-060116-053457
+University of Warwick,10.1098/rsos.150162
+University of Zaragoza,10.1093/comnet/cnt006
+University of Warwick,10.1098/rsos.150266
+Stanford University,10.1037/met0000105
+George Mason University,10.1002/wics.95
+University of Pennsylvania,10.1111/jcom.12160
+University of Southern California,10.7717/peerj-cs.26
+ETH Zurich,10.1098/rsos.150288
+IMT School for Advanced Studies Lucca,10.1073/pnas.1501444112
+University of Warwick,10.1098/rsos.140095
+City University London,10.1098/rsos.172189
+Northeastern University,10.1177/0081175015576601
+Consiglio Nazionale delle Ricerche (CNR),10.3389/fpsyg.2014.00668
+University of Alabama System,10.1177/1077699016679976
+University of Pennsylvania,10.1177/1073191113514104
+University of Namur,10.1109/JPROC.2014.2359054
+University of Melbourne,10.18564/jasss.3629
+Northeastern University,10.1126/science.aaz8170
+Brigham Young University,10.25300/MISQ/2014/38.3.10
+University of Urbino,10.1080/15228835.2012.743797
+University of Southern California,10.1037/xge0000139
+RAND Corporation,10.1177/089443902237317
+Leibniz Institut fur Sozialwissenschaften (GESIS),10.1145/2872518.2889385
+University of Warwick,10.1038/srep03141
+Columbia University,10.1002/smj.2123
+Cardiff University,10.1016/j.comcom.2015.07.018
+ETH Zurich,10.1073/pnas.1811388115
+Internal Revenue Service,10.1177/0894439306287021
+Duke University,10.1073/pnas.1607151113
+University of Mannheim,10.1111/jcc4.12143
+George Mason University,10.1111/j.1468-2486.2009.00911.x
+Leibniz Institut fur Sozialwissenschaften (GESIS),10.1142/S0219525917500114
+University of Westminster,10.1177/0267323116682804
+University of South Carolina System,10.1016/j.chb.2018.02.032
+University of North Carolina,10.1177/1948550617691100
+Microsoft,10.1287/mksc.2013.0817
+University of Massachusetts System,10.1177/0002716215570576
+University of Washington,10.1145/1889681.1889688
+ETH Zurich,10.1140/epjst/e2011-01401-8
+Northwestern University,10.1073/pnas.1721438116
+University of Electronic Science & Technology of China,10.1098/rsif.2018.0210
+Harvard University,10.1007/s10608-017-9876-3
+University of Mannheim,10.1177/0894439316631043
+Massachusetts Institute of Technology (MIT),10.1098/rsif.2015.0185
+Duke University,10.1073/pnas.1906420116
+Technical University of Munich,10.1140/epjds/s13688-018-0178-0
+Arizona State University,10.1007/s10708-010-9361-y
+University of Pennsylvania,10.1111/hcre.12114
+Northeastern University,10.1177/2053951714540613
+Aarhus University,10.1109/PerCom.2013.6526714
+University of Wisconsin System,10.1080/23251042.2017.1393863
+International Business Machines (IBM),10.1109/JPROC.2012.2203090
+Copenhagen Business School,10.1109/ACCESS.2016.2559584
+Null,10.18564/jasss.1528
+University of Bath,10.1177/0963721419827849
+Indiana University System,10.1073/pnas.1717729115
+Duke University,10.1016/j.socscimed.2016.01.049
+ICREA,10.1371/journal.pone.0044620
+Massachusetts Institute of Technology (MIT),10.1145/1989734.1989742
+University of London,10.1177/0956797619849435
+University of Vienna,10.1111/jcom.12288
+University of Washington,10.1145/3185515
+League of European Research Universities - LERU,10.1080/19312458.2018.1447655
+Duke University,10.1177/0003122417733673
+University of Waterloo,10.1177/0003122416650963
+University of Warwick,10.1371/journal.pone.0135600
+University of Pennsylvania,10.1038/nn.4502
+University of Texas System,10.1080/21670811.2014.976400
+University of London,10.1177/0263276413484941
+Wageningen University & Research,10.1016/j.njas.2019.100315
+Cardiff University,10.1002/poi3.85
+Sichuan University,10.3390/su10010166
+Hefei University of Technology,10.1016/j.rser.2015.12.001
+Microsoft,10.1177/2053951716650211
+Clark University,10.1016/j.geoforum.2014.01.006
+Seoul National University (SNU),10.1145/2749469.2750386
+University of Warwick,10.1016/j.ssresearch.2016.04.015
+State University System of Florida,10.1057/ejis.2016.2
+University of California System,10.1093/cjres/rsu021
+Amrita Vishwa Vidyapeetham,10.1089/omi.2017.0194
+University of Bristol,10.1016/j.ijpe.2017.06.006
+China University of Geosciences,10.1016/j.earscirev.2019.02.023
+University of Wollongong,10.1080/09537287.2016.1267411
+Boston University,10.1177/1077699016639231
+University of Southampton,10.1177/0038038513511561
+Harvard University,10.1111/ecin.12364
+Cornell University,10.1146/annurev-environ-030713-154609
+Peking University,10.1080/23270012.2016.1141332
+University of Ottawa,10.1016/j.njas.2019.03.001
+Technische Universitat Dresden,10.1038/s41467-017-01825-5
+Yale University,10.1586/14737159.2016.1115346
+League of European Research Universities - LERU,10.1002/1944-2866.POI328
+National Sun Yat Sen University,10.1016/j.eswa.2018.05.018
+Cardiff University,10.1177/2053951714545135
+League of European Research Universities - LERU,10.1177/2053951714563194
+United States Department of Energy (DOE),10.1016/j.enbuild.2020.109831
+League of European Research Universities - LERU,10.1177/0894439318788322
+Vrije Universiteit Amsterdam,10.1080/19312458.2018.1458084
+University College Dublin,10.1016/j.dss.2018.10.010
+University of Southampton,10.1177/0038038517698639
+George Washington University,10.1177/0002716215570279
+University of Leeds,10.1038/s41558-019-0684-5
+George Mason University,10.1111/ropr.12082
+University of Wisconsin System,10.1177/0894439315609528
+University of Bath,10.1177/2053951716658060
+University of Toronto,10.1177/1362480618763582
+Griffith University,10.1016/j.jort.2017.11.002
+Boston University,10.1080/15205436.2015.1045300
+League of European Research Universities - LERU,10.1111/cdoe.12231
+Open University - UK,10.1140/epjst/e2012-01690-3
+Stanford University,10.1080/07370024.2019.1578652
+Hong Kong Polytechnic University,10.1016/j.jclepro.2019.117926
+Yunnan Normal University,10.1142/S0218127415400349
+League of European Research Universities - LERU,10.1177/2053951714543908
+University of Melbourne,10.1002/cpe.3282
+Aalto University,10.1177/1042258719891388
+Peking University,10.1140/epjds/s13688-017-0125-5
+Cornell University,10.1108/AFR-03-2016-0018
+Central South University,10.1016/j.ssci.2018.05.012
+Hefei University of Technology,10.15302/J-FEM-2018050
+University of Sevilla,10.1016/j.csi.2016.02.003
+Tampere University,10.3390/make1010032
+University of Vienna,10.1177/0894439315619589
+Centre National de la Recherche Scientifique (CNRS),10.18564/jasss.2729
+Singapore University of Technology & Design,10.1080/10630732.2017.1335153
+University of London,10.1063/1.4953161
+University of Witwatersrand,10.1086/683302
+League of European Research Universities - LERU,10.1080/19331681.2019.1702607
+Singapore Management University,10.1016/j.elerap.2017.04.004
+Indiana University System,10.7717/peerj-cs.87
+Arizona State University,10.1002/ajhb.22522
+University System of Georgia,10.1016/j.ijinfomgt.2020.102307
+Stanford University,10.1177/2053951715601145
+University of North Carolina,10.1109/SocialCom.2013.6
+Microsoft,10.1038/s41586-021-03659-0
+Wuhan University,10.3390/ijgi7040158
+League of European Research Universities - LERU,10.1002/poi3.100
+Harvard University,10.1177/1474474014525055
+European Commission Joint Research Centre,10.1177/2053951720948087

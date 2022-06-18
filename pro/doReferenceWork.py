@@ -20,7 +20,7 @@ Munich = "https://ror.org/02kkvpp62"
 
 ### func part
 
-def getReferenceWork(results):
+def getReferenceWork(results,university,rorid):
     """write referenced content to file
 
     Args:
@@ -36,9 +36,10 @@ def getReferenceWork(results):
                 if institutions:
                     institution = institutions[0]
                     for institution in institutions:
-                        if institution["ror"] == Munich:
+                        if institution["ror"] == rorid:
                             referenced_work_urls = get_reference_urls(result) # referenced urls list
-                            doConcurrent(referenced_work_urls,ori_paper_ID,ori_paper_concept)
+                            if referenced_work_urls:
+                                doConcurrent(referenced_work_urls,ori_paper_ID,ori_paper_concept,university)
             #             else:
             #                 continue
             #     else:
@@ -71,7 +72,7 @@ def get_reference_urls(result):
     else:
         return None
 
-def doConcurrent(referenced_work_urls,ori_paper_ID,ori_paper_concept):
+def doConcurrent(referenced_work_urls,ori_paper_ID,ori_paper_concept,university):
     """createe a queue and prepare for multi processing
 
     Args:
@@ -89,7 +90,7 @@ def doConcurrent(referenced_work_urls,ori_paper_ID,ori_paper_concept):
     thread_num = concurrent
     threads = []
     for i in range(thread_num):
-        t = threading.Thread(target=parse_referenced_work, args=(q,ori_paper_ID,ori_paper_concept))
+        t = threading.Thread(target=parse_referenced_work, args=(q,ori_paper_ID,ori_paper_concept,university))
         # args需要输出的是一个元组，如果只有一个参数，后面加，表示元组，否则会报错
         threads.append(t)
 
@@ -98,7 +99,7 @@ def doConcurrent(referenced_work_urls,ori_paper_ID,ori_paper_concept):
     for i in range(thread_num):
         threads[i].join()
             
-def parse_referenced_work(q,ori_paper_ID,ori_paper_concept):
+def parse_referenced_work(q,ori_paper_ID,ori_paper_concept,university):
     """start processing
 
     Args:
@@ -117,31 +118,24 @@ def parse_referenced_work(q,ori_paper_ID,ori_paper_concept):
                 referenced_paper_id = ParseWork.getId(dataSingle)
                 referenced_paper_concept = chooseMethod(dataSingle,1)     
                 print(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept)
-                writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept)
+                writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept,university)
             else:
                 referenced_paper_id = "NoneType"
                 referenced_paper_concept = "NoneType"
                 print(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept)
-                writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept)
+                writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept,university)
             
 
 
-def writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept):
+def writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept,university):
+    writeToFile = "pro/universities/" + university + ".txt"
     try:
-        with open("pro/experimentdata/testMunich0606-1.txt","a+",encoding="utf-8") as f:
+        with open(writeToFile,"a+",encoding="utf-8") as f:
             f.write(ori_paper_ID + "," + ori_paper_concept+ "," + referenced_paper_id +","+ referenced_paper_concept+ '\n')
             f.close()
     except Exception as e:
         print("Can not write to file:",e)
         Logger('pro/logdata/error.log', level='error').logger.error(e)
                  
-
-def getReferenceResult(ourl):
-    try:
-        resp = requests.get(ourl).json()
-        return resp
-    except Exception as e:
-        print("Can not get correct response:",e)
-        Logger('pro/logdata/error.log', level='error').logger.error(e)
     
         

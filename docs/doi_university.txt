@@ -1,0 +1,173 @@
+Harvard University; Massachusetts Institute of Technology (MIT); University of Michigan System; University of Michigan; New York University; Northeastern University; Northwestern University; University of California System; University of California San Diego; Columbia University; Cornell University; Boston University	10.1126/science.1167742
+League of European Research Universities - LERU; University of Cambridge; Microsoft	10.1073/pnas.1218772110
+George Mason University; George Mason University	10.1177/0037549705058073
+Universita della Svizzera Italiana; Tel Aviv University; Intel Corporation	10.1109/CVPR.2017.576
+League of European Research Universities - LERU; University of Cambridge; Stanford University	10.1073/pnas.1418680112
+Duke University; Brigham Young University; Duke University; New York University; Duke University	10.1073/pnas.1804840115
+Indiana University System; Indiana University Bloomington	10.1038/srep02522
+University of Colorado System; University of Colorado Boulder; Boston University	10.1177/1461444817712086
+Yale University	10.1073/pnas.1509433112
+University of London; University College London	10.1007/s00146-014-0549-4
+Singapore Management University; Sookmyung Women's University	10.1016/j.dss.2013.08.008
+Stanford University	10.1037/pspa0000098
+University of Surrey; George Mason University; Budapest University of Technology & Economics; Sapienza University Rome; University of London; University College London; Centre National de la Recherche Scientifique (CNRS); UDICE-French Research Universities; Universite de Paris; Universidad Carlos III de Madrid; University of Warsaw; University of Groningen; Consejo Superior de Investigaciones Cientificas (CSIC); Universitat de les Illes Balears; CSIC-UIB - Instituto de Fisica Interdisciplinar y Sistemas Complejos (IFISC); ETH Zurich	10.1140/epjst/e2012-01697-8
+Harvard University; University of Vermont; University of Vermont; University of Vermont	10.1140/epjds/s13688-017-0110-z
+Otto Friedrich University Bamberg; Johannes Gutenberg University of Mainz	10.1177/0894439311404119
+Budapest University of Technology & Economics; League of European Research Universities - LERU; University of Oxford; Aalto University; Central European University	10.1371/journal.pone.0071226
+Fondazione Bruno Kessler; University of Southern California	10.1073/pnas.1803470115
+Technical University of Denmark; Massachusetts Institute of Technology (MIT); League of European Research Universities - LERU; University of Copenhagen; Niels Bohr Institute	10.1073/pnas.1602803113
+Defense Advanced Research Projects Agency	10.1111/j.1468-2486.2009.00914.x
+University of Manchester; University of Sheffield; University of St Andrews	10.1080/13645579.2013.774172
+Universita Ca Foscari Venezia; Consiglio Nazionale delle Ricerche (CNR); Istituto dei Sistemi Complessi (ISC-CNR); Sapienza University Rome; University of Erfurt	10.1016/j.vaccine.2018.05.040
+League of European Research Universities - LERU; University of Amsterdam	10.1108/AJIM-09-2013-0094
+Cardiff University; Cardiff University; Cardiff University; Cardiff University	10.1177/0038038517708140
+Southeast University - China; Nanjing University of Information Science & Technology; Iwate Prefectural University	10.1016/j.ins.2016.07.007
+Otto Friedrich University Bamberg; University of Oviedo; Wellesley College; Harvard University; Graz University of Technology; Massachusetts Institute of Technology (MIT)	10.1108/IntR-06-2013-0115
+Boston University; Boston University; University of Warwick	10.1073/pnas.1324054111
+Stanford University	10.1145/2858036.2858535
+University System of Maryland; University of Maryland College Park; University System of Maryland; University of Maryland College Park; University System of Maryland; University of Maryland College Park	10.1007/s10994-013-5413-0
+Microsoft	10.1038/s41562-016-0015
+IMT School for Advanced Studies Lucca; IUSS PAVIA; Consiglio Nazionale delle Ricerche (CNR); Istituto dei Sistemi Complessi (ISC-CNR); Boston University; Universita Ca Foscari Venezia	10.1073/pnas.1617052114
+League of European Research Universities - LERU; University of Amsterdam; League of European Research Universities - LERU; University of Amsterdam	10.1080/21670811.2015.1096598
+University of Melbourne; University of Pennsylvania; University of Pennsylvania; State University of New York (SUNY) System; State University of New York (SUNY) Stony Brook	10.1037/met0000091
+University of Wisconsin System; University of Wisconsin Madison; University of Pennsylvania; New York University; University of Michigan System; University of Michigan	10.1177/0002716215572084
+Northeastern University; Northeastern University; Harvard University; University of Chicago	10.1146/annurev-soc-060116-053457
+University of Warwick; University of Warwick	10.1098/rsos.150162
+University of Zaragoza; League of European Research Universities - LERU; University of Oxford; Consejo Superior de Investigaciones Cientificas (CSIC); CSIC - UAM - Institut de Fisica Teorica (IFT); University of Zaragoza	10.1093/comnet/cnt006
+University of Warwick	10.1098/rsos.150266
+Stanford University; Stanford University	10.1037/met0000105
+George Mason University	10.1002/wics.95
+University of Pennsylvania	10.1111/jcom.12160
+University of Southern California; Indiana University System; Indiana University Bloomington	10.7717/peerj-cs.26
+ETH Zurich	10.1098/rsos.150288
+IMT School for Advanced Studies Lucca	10.1073/pnas.1501444112
+University of Warwick	10.1098/rsos.140095
+City University London	10.1098/rsos.172189
+Northeastern University; Northeastern University; Harvard University; Harvard University; Harvard University	10.1177/0081175015576601
+Consiglio Nazionale delle Ricerche (CNR); Istituto di Scienze e Tecnologie della Cognizione (ISTC-CNR)	10.3389/fpsyg.2014.00668
+University of Alabama System; University of Alabama Tuscaloosa; Boston University	10.1177/1077699016679976
+University of Pennsylvania; League of European Research Universities - LERU; University of Cambridge	10.1177/1073191113514104
+University of Namur; Stanford University; League of European Research Universities - LERU; University of Cambridge	10.1109/JPROC.2014.2359054
+University of Melbourne; Austrian Institute of Technology (AIT); University of New South Wales Sydney; University of London; University College London; Delft University of Technology	10.18564/jasss.3629
+Northeastern University; Harvard University; Massachusetts Institute of Technology (MIT); University of Pennsylvania; Stanford University; Northwestern University; University of North Carolina; University of North Carolina Chapel Hill; League of European Research Universities - LERU; University of Oxford; Institute for Advanced Study - USA; Princeton University; RWTH Aachen University; Leibniz Institut fur Sozialwissenschaften (GESIS); University of Koblenz & Landau	10.1126/science.aaz8170
+Brigham Young University; University System of Georgia; University of Georgia; Case Western Reserve University; Pennsylvania Commonwealth System of Higher Education (PCSHE); Temple University	10.25300/MISQ/2014/38.3.10
+University of Urbino; University of Urbino; University of Catania	10.1080/15228835.2012.743797
+University of Southern California; University of Southern California; University of Southern California; University of Southern California; Northwestern University; Duke University; Duke University; University of Michigan System; University of Michigan; University of Michigan System; University of Michigan	10.1037/xge0000139
+RAND Corporation; Pardee RAND Graduate School	10.1177/089443902237317
+Leibniz Institut fur Sozialwissenschaften (GESIS); University of Koblenz & Landau	10.1145/2872518.2889385
+University of Warwick; Boston University; University of London; University College London; University of London; University College London	10.1038/srep03141
+Columbia University; Copenhagen Business School	10.1002/smj.2123
+Cardiff University; Cardiff University	10.1016/j.comcom.2015.07.018
+ETH Zurich; League of European Research Universities - LERU; University of Zurich	10.1073/pnas.1811388115
+Internal Revenue Service	10.1177/0894439306287021
+Duke University; Duke University	10.1073/pnas.1607151113
+University of Mannheim; Johannes Gutenberg University of Mainz	10.1111/jcc4.12143
+George Mason University	10.1111/j.1468-2486.2009.00911.x
+Leibniz Institut fur Sozialwissenschaften (GESIS); University of Koblenz & Landau	10.1142/S0219525917500114
+University of Westminster	10.1177/0267323116682804
+University of South Carolina System; University of South Carolina Columbia; University of South Carolina System; University of South Carolina Columbia; Hallym University; Tianjin University	10.1016/j.chb.2018.02.032
+University of North Carolina; University of North Carolina Chapel Hill; Yale University; Yale University; Yale University; University of California System; University of California San Diego; Harvard University	10.1177/1948550617691100
+Microsoft	10.1287/mksc.2013.0817
+University of Massachusetts System; University of Massachusetts Amherst; University of Minnesota System; University of Minnesota Twin Cities	10.1177/0002716215570576
+University of Washington; University of Washington Seattle; Dartmouth College; University of Washington; University of Washington Seattle; Columbia University	10.1145/1889681.1889688
+ETH Zurich; The Santa Fe Institute	10.1140/epjst/e2011-01401-8
+Northwestern University; Northwestern University; University of Notre Dame; University of Notre Dame	10.1073/pnas.1721438116
+University of Electronic Science & Technology of China; University of Electronic Science & Technology of China; University of Electronic Science & Technology of China; Pennsylvania Commonwealth System of Higher Education (PCSHE); Pennsylvania State University; Pennsylvania State University - University Park	10.1098/rsif.2018.0210
+Harvard University	10.1007/s10608-017-9876-3
+University of Mannheim; Otto Friedrich University Bamberg; Johannes Gutenberg University of Mainz	10.1177/0894439316631043
+Massachusetts Institute of Technology (MIT); Massachusetts Institute of Technology (MIT); Pennsylvania Commonwealth System of Higher Education (PCSHE); University of Pittsburgh; University of California System; University of California Davis; Harvard University; Northeastern University; Northeastern University	10.1098/rsif.2015.0185
+Duke University; Duke University; Duke University; Duke University; League of European Research Universities - LERU; University of Copenhagen; University of North Carolina; University of North Carolina Chapel Hill; Duke University	10.1073/pnas.1906420116
+Technical University of Munich; Carnegie Mellon University; University of Southern California	10.1140/epjds/s13688-018-0178-0
+Arizona State University; Arizona State University-Tempe; Arizona State University; Arizona State University-Tempe	10.1007/s10708-010-9361-y
+University of Pennsylvania	10.1111/hcre.12114
+Northeastern University	10.1177/2053951714540613
+Aarhus University; ETH Zurich	10.1109/PerCom.2013.6526714
+University of Wisconsin System; Oklahoma State University System; Oklahoma State University - Stillwater	10.1080/23251042.2017.1393863
+International Business Machines (IBM); University of Pennsylvania; International Business Machines (IBM); Chinese Academy of Sciences	10.1109/JPROC.2012.2203090
+Copenhagen Business School; Westerdals Oslo School of Arts Communication & Technology	10.1109/ACCESS.2016.2559584
+Null	10.18564/jasss.1528
+University of Bath	10.1177/0963721419827849
+Indiana University System; Indiana University Bloomington; The Santa Fe Institute; Indiana University System; Indiana University Bloomington; Carnegie Mellon University	10.1073/pnas.1717729115
+Duke University	10.1016/j.socscimed.2016.01.049
+ICREA; Universitat Rovira i Virgili; Autonomous University of Madrid; Universidad Carlos III de Madrid; Universidad Carlos III de Madrid; Autonomous University of Madrid; Complutense University of Madrid; Consejo Superior de Investigaciones Cientificas (CSIC); CSIC - Instituto de Ciencias Matematicas (ICMAT); Universidad Carlos III de Madrid	10.1371/journal.pone.0044620
+Massachusetts Institute of Technology (MIT); The Santa Fe Institute; University of Pennsylvania; University of Pennsylvania	10.1145/1989734.1989742
+University of London; University College London; Columbia University	10.1177/0956797619849435
+University of Vienna	10.1111/jcom.12288
+University of Washington; University of Washington Seattle	10.1145/3185515
+League of European Research Universities - LERU; University of Amsterdam	10.1080/19312458.2018.1447655
+Duke University; Duke University	10.1177/0003122417733673
+University of Waterloo; Dartmouth College	10.1177/0003122416650963
+University of Warwick; University of Warwick; Boston University; Boston University	10.1371/journal.pone.0135600
+University of Pennsylvania; University of Pennsylvania; Indiana University System; Indiana University Bloomington; Indiana University System; Indiana University Bloomington	10.1038/nn.4502
+University of Texas System; University of Texas Austin	10.1080/21670811.2014.976400
+University of London; Goldsmiths University London; Open University - UK; Open University - UK; University of London; London School Economics & Political Science	10.1177/0263276413484941
+Wageningen University & Research; Commonwealth Scientific & Industrial Research Organisation (CSIRO); INRAE	10.1016/j.njas.2019.100315
+Cardiff University; Cardiff University	10.1002/poi3.85
+Sichuan University; Sichuan University; De Montfort University; University of Manchester	10.3390/su10010166
+Hefei University of Technology; Hefei University of Technology	10.1016/j.rser.2015.12.001
+Microsoft; New York University	10.1177/2053951716650211
+Clark University; University of Kentucky; League of European Research Universities - LERU; University of Oxford	10.1016/j.geoforum.2014.01.006
+Seoul National University (SNU); Oracle; Carnegie Mellon University	10.1145/2749469.2750386
+University of Warwick; League of European Research Universities - LERU; University of Edinburgh; League of European Research Universities - LERU; University of Edinburgh; League of European Research Universities - LERU; University of Edinburgh	10.1016/j.ssresearch.2016.04.015
+State University System of Florida; Florida State University	10.1057/ejis.2016.2
+University of California System; University of California Los Angeles; University of London; London School Economics & Political Science	10.1093/cjres/rsu021
+Amrita Vishwa Vidyapeetham; Biruni University	10.1089/omi.2017.0194
+University of Bristol; University of Kent	10.1016/j.ijpe.2017.06.006
+China University of Geosciences; Chengdu University of Technology; University of Kwazulu Natal	10.1016/j.earscirev.2019.02.023
+University of Wollongong; Universite Federale Toulouse Midi-Pyrenees (ComUE); Universite de Toulouse; Toulouse Business School; University of Canberra	10.1080/09537287.2016.1267411
+Boston University; University of Alabama System; University of Alabama Tuscaloosa; Technicolor SA	10.1177/1077699016639231
+University of Southampton; University of Southampton; University of Southampton; University of Southampton	10.1177/0038038513511561
+Harvard University; Harvard University; National Bureau of Economic Research; Harvard University; Harvard University; Harvard University; Harvard University; Harvard University; Harvard University; Massachusetts Institute of Technology (MIT)	10.1111/ecin.12364
+Cornell University; Cornell University	10.1146/annurev-environ-030713-154609
+Peking University; Tianjin University; Tribhuvan University; Institute of Engineering (IOE) - Nepal; University of Kentucky; University of Manchester; Shanghai University of Sport; Old Dominion University	10.1080/23270012.2016.1141332
+University of Ottawa	10.1016/j.njas.2019.03.001
+Technische Universitat Dresden; University of London; Queen Mary University London; IRCCS Bonino Pulejo	10.1038/s41467-017-01825-5
+Yale University; Yale University; Harvard University; Brigham & Women's Hospital; Harvard University; Harvard University; Harvard T.H. Chan School of Public Health; Harvard University; Harvard T.H. Chan School of Public Health; Harvard University; Harvard T.H. Chan School of Public Health; Harvard University; Brigham & Women's Hospital; Harvard University; Harvard T.H. Chan School of Public Health; Harvard University; Dana-Farber Cancer Institute; Harvard University; Harvard T.H. Chan School of Public Health	10.1586/14737159.2016.1115346
+League of European Research Universities - LERU; University of Oxford	10.1002/1944-2866.POI328
+National Sun Yat Sen University; Academia Sinica - Taiwan	10.1016/j.eswa.2018.05.018
+Cardiff University; University of Warwick; University of St Andrews; University of Manchester	10.1177/2053951714545135
+League of European Research Universities - LERU; University of Oxford	10.1177/2053951714563194
+United States Department of Energy (DOE); Lawrence Berkeley National Laboratory	10.1016/j.enbuild.2020.109831
+League of European Research Universities - LERU; University of Zurich	10.1177/0894439318788322
+Vrije Universiteit Amsterdam; Michigan State University	10.1080/19312458.2018.1458084
+University College Dublin; California State University System; San Diego State University; Adam Mickiewicz University	10.1016/j.dss.2018.10.010
+University of Southampton; University of Southampton; University of London; London School Economics & Political Science; University of London; London School Economics & Political Science	10.1177/0038038517698639
+George Washington University; Harvard University	10.1177/0002716215570279
+University of Leeds	10.1038/s41558-019-0684-5
+George Mason University	10.1111/ropr.12082
+University of Wisconsin System; University of Wisconsin Madison; University of Southern California	10.1177/0894439315609528
+University of Bath; Brunel University	10.1177/2053951716658060
+University of Toronto; University of Toronto	10.1177/1362480618763582
+Griffith University; Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)	10.1016/j.jort.2017.11.002
+Boston University; University of Alabama System; University of Alabama Tuscaloosa	10.1080/15205436.2015.1045300
+League of European Research Universities - LERU; Ruprecht Karls University Heidelberg; Max Planck Society; University of Wuppertal; University of London; University College London	10.1111/cdoe.12231
+Open University - UK; Ecole Polytechnique Federale de Lausanne; University of Stuttgart; University of London; University College London; University of Passau; League of European Research Universities - LERU; University of Edinburgh; University of Aegean; Coventry University; Manchester Metropolitan University; European Organization for Nuclear Research (CERN); University of London; University College London; Hungarian Academy of Sciences; Szeged University; Fraunhofer Gesellschaft; University of London; University College London; League of European Research Universities - LERU; Imperial College London; ETH Zurich	10.1140/epjst/e2012-01690-3
+Stanford University; Stanford University; Stanford University; Pennsylvania Commonwealth System of Higher Education (PCSHE); Pennsylvania State University; Pennsylvania State University - University Park; Pennsylvania Commonwealth System of Higher Education (PCSHE); Pennsylvania State University; Pennsylvania State University - University Park; Pennsylvania Commonwealth System of Higher Education (PCSHE); Pennsylvania State University; Pennsylvania State University - University Park; Boston University; Pennsylvania Commonwealth System of Higher Education (PCSHE); Pennsylvania State University; Pennsylvania State University - University Park; Stanford University; Pennsylvania Commonwealth System of Higher Education (PCSHE); Pennsylvania State University; Pennsylvania State University - University Park; Apple Inc; Toyota Motor Corporation	10.1080/07370024.2019.1578652
+Hong Kong Polytechnic University; Shenzhen University	10.1016/j.jclepro.2019.117926
+Yunnan Normal University; Jiangsu University of Technology; Kunming University	10.1142/S0218127415400349
+League of European Research Universities - LERU; University of Copenhagen; League of European Research Universities - LERU; University of Copenhagen	10.1177/2053951714543908
+University of Melbourne; University of Melbourne	10.1002/cpe.3282
+Aalto University; Vrije Universiteit Amsterdam	10.1177/1042258719891388
+Peking University; Baidu; Tsinghua University	10.1140/epjds/s13688-017-0125-5
+Cornell University	10.1108/AFR-03-2016-0018
+Central South University; Central South University	10.1016/j.ssci.2018.05.012
+Hefei University of Technology; Tsinghua University; Peking University; National University of Defense Technology - China; Tongji University	10.15302/J-FEM-2018050
+University of Sevilla; University of Sevilla	10.1016/j.csi.2016.02.003
+Tampere University; Nankai University	10.3390/make1010032
+University of Vienna; University of Vienna; University Diego Portales	10.1177/0894439315619589
+Centre National de la Recherche Scientifique (CNRS); Ecole Normale Superieure de Lyon (ENS de LYON)	10.18564/jasss.2729
+Singapore University of Technology & Design; University of Kentucky	10.1080/10630732.2017.1335153
+University of London; Queen Mary University London	10.1063/1.4953161
+University of Witwatersrand; Monash University; League of European Research Universities - LERU; University of Amsterdam	10.1086/683302
+League of European Research Universities - LERU; University of Oxford; Open University - UK; League of European Research Universities - LERU; University of Oxford	10.1080/19331681.2019.1702607
+Singapore Management University; Izmir Ekonomi Universitesi; Hanyang University	10.1016/j.elerap.2017.04.004
+Indiana University System; Indiana University Bloomington; Indiana University System; Indiana University Bloomington; Indiana University System; Indiana University Bloomington; University of Southern California; Facebook Inc; New York University; Max Planck Society; Google Incorporated; Amazon.com	10.7717/peerj-cs.87
+Arizona State University; Arizona State University-Tempe; East Tennessee State University	10.1002/ajhb.22522
+University System of Georgia; Georgia State University; National Institute of Technology (NIT System); Malaviya National Institute of Technology Jaipur; Indian Institute of Management (IIM System); Indian Institute of Management Tiruchirappalli	10.1016/j.ijinfomgt.2020.102307
+Stanford University	10.1177/2053951715601145
+University of North Carolina; University of North Carolina Chapel Hill; Harvard University; Texas A&M University System; Texas A&M University College Station; University of North Carolina; North Carolina A&T State University	10.1109/SocialCom.2013.6
+Microsoft; University of Pennsylvania; University of Pennsylvania; University of Pennsylvania; Stanford University; Princeton University; Princeton University; Princeton University; Cornell University; Cornell University; League of European Research Universities - LERU; University of Oxford; University of Chicago; University of Melbourne; Northeastern University; University of Texas System; University of Texas Austin	10.1038/s41586-021-03659-0
+Wuhan University; Wuhan University; Wuhan University; Wuhan University; Kent State University; Kent State University Salem; Kentucky State University; Kent State University Kent	10.3390/ijgi7040158
+League of European Research Universities - LERU; University of Oxford	10.1002/poi3.100
+Harvard University; University of Kentucky	10.1177/1474474014525055
+European Commission Joint Research Centre; EC JRC ISPRA Site; University of Gothenburg; Tilburg University	10.1177/2053951720948087

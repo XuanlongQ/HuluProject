@@ -1,0 +1,80 @@
+168546,grid.252000.5,Albion College
+164465,grid.252152.3,Amherst College
+482149,grid.410427.4,Augusta University
+176628,grid.252626.7,Avila University
+160977,grid.252873.9,Bates College
+139144,grid.423400.1,Berry College
+237181,grid.423264.5,Bethany College
+164988,grid.189504.1,Boston University
+162007,grid.253246.4,Bowie State University
+198066,grid.427883.2,Brevard College
+217156,grid.40263.33,Brown University
+169080,grid.253573.5,Calvin College
+173258,grid.253692.9,Carleton College
+169248,grid.253856.f,Central Michigan University
+217819,grid.254424.1,College of Charleston
+126678,grid.254544.6,Colorado College
+126818,grid.47894.36,Colorado State University 鈥 Fort Collins
+190150,grid.21729.3f,Columbia University in the City of New York
+190415,grid.5386.8,Cornell University
+212009,grid.255086.c,Dickinson College
+198419,grid.26009.3d,Duke University
+198516,grid.255496.9,Elon University
+139658,grid.189967.8,Emory University
+134097,grid.255986.5,Florida State University
+191241,grid.256023.0,Fordham University
+212577,grid.256069.e,Franklin and Marshall College
+139755,grid.213917.f,Georgia Institute of Technology-Main Campus
+212674,grid.256322.2,Gettysburg College
+162654,grid.256425.2,Goucher College
+170082,grid.256549.9,Grand Valley State University
+153384,grid.256592.f,Grinnell College
+173647,grid.256667.6,Gustavus Adolphus College
+166027,grid.38142.3c,Harvard University
+191649,grid.257060.6,Hofstra University
+153603,grid.34421.30,Iowa State University
+191968,grid.257949.4,Ithaca College
+155399,grid.36567.31,Kansas State University
+203535,grid.258533.a,Kenyon College
+117946,grid.259256.f,Loyola Marymount University
+173902,grid.259382.7,Macalester College
+171100,grid.17088.36,Michigan State University
+230959,grid.260002.6,Middlebury College
+173920,grid.260088.4,Minnesota State University Mankato
+199193,grid.40803.3f,North Carolina State University at Raleigh
+147767,grid.16753.36,Northwestern University
+171571,grid.261277.7,Oakland University
+204796,grid.261331.4,Ohio State University-Main Campus
+194310,grid.261572.5,Pace University
+120865,grid.437114.4,Pacific Union College
+214777,grid.29857.31,Pennsylvania State University-Main Campus
+121345,grid.262007.1,Pomona College
+186131,grid.16750.35,Princeton University
+209922,grid.182981.b,Reed College
+136950,grid.419254.f,Rollins College
+239716,grid.422531.3,Saint Norbert College
+243744,grid.168010.e,Stanford University
+233718,grid.264440.0,Sweet Briar College
+206589,grid.254509.f,The College of Wooster
+180489,grid.253613.0,The University of Montana
+178615,grid.265193.a,Truman State University
+168148,grid.429997.8,Tufts University
+164155,grid.265465.6,United States Naval Academy
+110635,grid.47840.3f,University of California-Berkeley
+110653,grid.266093.8,University of California-Irvine
+139959,grid.213876.9,University of Georgia
+145637,grid.35403.31,University of Illinois at Urbana-Champaign
+153658,grid.214572.7,University of Iowa
+163268,grid.266673.0,University of Maryland-Baltimore County
+170976,grid.214458.e,University of Michigan-Ann Arbor
+209551,grid.170202.6,University of Oregon
+215062,grid.25879.31,University of Pennsylvania
+215293,grid.21925.3d,University of Pittsburgh-Pittsburgh Campus
+195030,grid.16416.34,University of Rochester
+218663,grid.254567.7,University of South Carolina-Columbia
+123961,grid.42505.36,University of Southern California
+234076,grid.27755.32,University of Virginia-Main Campus
+240444,grid.14003.36,University of Wisconsin-Madison
+154527,grid.422499.0,Wartburg College
+168218,grid.268091.4,Wellesley College
+168342,grid.268275.c,Williams College

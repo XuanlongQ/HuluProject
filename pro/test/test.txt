@@ -1,0 +1,34 @@
+field of study children
+<http://ma-graph.org/entity/139676723> <http://ma-graph.org/property/hasParent> <http://ma-graph.org/entity/4250> .
+<http://ma-graph.org/entity/8105449> <http://ma-graph.org/property/hasParent> <http://ma-graph.org/entity/12843> .
+<http://ma-graph.org/entity/71383303> <http://ma-graph.org/property/hasParent> <http://ma-graph.org/entity/12843> .
+<http://ma-graph.org/entity/105805003> <http://ma-graph.org/property/hasParent> <http://ma-graph.org/entity/12843> .
+<http://ma-graph.org/entity/112019140> <http://ma-graph.org/property/hasParent> <http://ma-graph.org/entity/12843> .
+<http://ma-graph.org/entity/143904861> <http://ma-graph.org/property/hasParent> <http://ma-graph.org/entity/12843> .
+<http://ma-graph.org/entity/207769094> <http://ma-graph.org/property/hasParent> <http://ma-graph.org/entity/12843> .
+<http://ma-graph.org/entity/2776199627> <http://ma-graph.org/property/hasParent> <http://ma-graph.org/entity/12843> .
+<http://ma-graph.org/entity/2776745369> <http://ma-graph.org/property/hasParent> <http://ma-graph.org/entity/12843> .
+<http://ma-graph.org/entity/2777446122> <http://ma-graph.org/property/hasParent> <http://ma-graph.org/entity/12843> .
+<http://ma-graph.org/entity/2777623060> <http://ma-graph.org/property/hasParent> <http://ma-graph.org/entity/12843> .
+
+field of study
+<http://ma-graph.org/entity/417682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ma-graph.org/class/FieldOfStudy> .
+<http://ma-graph.org/entity/417682> <http://ma-graph.org/property/rank> "20067"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://ma-graph.org/entity/417682> <http://xmlns.com/foaf/0.1/name> "Night air"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ma-graph.org/entity/417682> <http://ma-graph.org/property/level> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://ma-graph.org/entity/417682> <http://ma-graph.org/property/paperCount> "96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://ma-graph.org/entity/417682> <http://ma-graph.org/property/citationCount> "513"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://ma-graph.org/entity/417682> <http://purl.org/dc/terms/created> "2016-06-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://ma-graph.org/entity/184860543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ma-graph.org/class/FieldOfStudy> .
+<http://ma-graph.org/entity/184860543> <http://ma-graph.org/property/rank> "18378"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://ma-graph.org/entity/184860543> <http://xmlns.com/foaf/0.1/name> "Spectral phase interferometry for direct electric-field reconstruction"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ma-graph.org/entity/184860543> <http://ma-graph.org/property/level> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://ma-graph.org/entity/184860543> <http://ma-graph.org/property/paperCount> "380"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://ma-graph.org/entity/184860543> <http://ma-graph.org/property/citationCount> "12190"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://ma-graph.org/entity/184860543> <http://purl.org/dc/terms/created> "2016-06-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://ma-graph.org/entity/185592680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ma-graph.org/class/FieldOfStudy> .
+<http://ma-graph.org/entity/185592680> <http://ma-graph.org/property/rank> "6684"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://ma-graph.org/entity/185592680> <http://xmlns.com/foaf/0.1/name> "Chemistry"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ma-graph.org/entity/185592680> <http://ma-graph.org/property/level> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://ma-graph.org/entity/185592680> <http://ma-graph.org/property/paperCount> "18970508"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://ma-graph.org/entity/185592680> <http://ma-graph.org/property/citationCount> "222265590"^^<http://www.w3.org/2001/XMLSchema#integer> .

@@ -1,0 +1,80 @@
+168546,grid.252000.5,Albion College,https://ror.org/05nnk3913
+164465,grid.252152.3,Amherst College,https://ror.org/028vqfs63
+482149,grid.410427.4,Augusta University,https://ror.org/012mef835
+176628,grid.252626.7,Avila University,https://ror.org/002f2sy95
+160977,grid.252873.9,Bates College,https://ror.org/003yn7c76
+139144,grid.423400.1,Berry College,https://ror.org/04btayy36
+237181,grid.423264.5,Bethany College,https://ror.org/04a6tv155
+164988,grid.189504.1,Boston University,https://ror.org/05qwgg493
+162007,grid.253246.4,Bowie State University,https://ror.org/0567w8j84
+198066,grid.427883.2,Brevard College,https://ror.org/04p457x22
+217156,grid.40263.33,Brown University,https://ror.org/05gq02987
+169080,grid.253573.5,Calvin College,https://ror.org/05r0q9p84
+173258,grid.253692.9,Carleton College,https://ror.org/03jep7677
+169248,grid.253856.f,Central Michigan University,https://ror.org/02xawj266
+217819,grid.254424.1,College of Charleston,https://ror.org/00390t168
+126678,grid.254544.6,Colorado College,https://ror.org/03tg3h819
+126818,grid.47894.36,Colorado State University 鈥 Fort Collins,https://ror.org/03k1gpj17
+190150,grid.21729.3f,Columbia University in the City of New York,https://ror.org/00hj8s172
+190415,grid.5386.8,Cornell University,https://ror.org/05bnh6r87
+212009,grid.255086.c,Dickinson College,https://ror.org/02ydh7m84
+198419,grid.26009.3d,Duke University,https://ror.org/00py81415
+198516,grid.255496.9,Elon University,https://ror.org/01szgyb91
+139658,grid.189967.8,Emory University,https://ror.org/03czfpz43
+134097,grid.255986.5,Florida State University,https://ror.org/05g3dte14
+191241,grid.256023.0,Fordham University,https://ror.org/03qnxaf80
+212577,grid.256069.e,Franklin and Marshall College,https://ror.org/04fp4ps48
+139755,grid.213917.f,Georgia Institute of Technology-Main Campus,https://ror.org/01zkghx44
+212674,grid.256322.2,Gettysburg College,https://ror.org/045e26x92
+162654,grid.256425.2,Goucher College,https://ror.org/055ag3e81
+170082,grid.256549.9,Grand Valley State University,https://ror.org/001m1hv61
+153384,grid.256592.f,Grinnell College,https://ror.org/04tmmky42
+173647,grid.256667.6,Gustavus Adolphus College,https://ror.org/007q4yk54
+166027,grid.38142.3c,Harvard University,https://ror.org/03vek6s52
+191649,grid.257060.6,Hofstra University,https://ror.org/03pm18j10
+153603,grid.34421.30,Iowa State University,https://ror.org/04rswrd78
+191968,grid.257949.4,Ithaca College,https://ror.org/01kw1gj07
+155399,grid.36567.31,Kansas State University,https://ror.org/05p1j8758
+203535,grid.258533.a,Kenyon College,https://ror.org/04ckqgs57
+117946,grid.259256.f,Loyola Marymount University,https://ror.org/00xhj8c72
+173902,grid.259382.7,Macalester College,https://ror.org/04fceqm38
+171100,grid.17088.36,Michigan State University,https://ror.org/05hs6h993
+230959,grid.260002.6,Middlebury College,https://ror.org/0217hb928
+173920,grid.260088.4,Minnesota State University Mankato,https://ror.org/04att9732
+199193,grid.40803.3f,North Carolina State University at Raleigh,https://ror.org/04tj63d06
+147767,grid.16753.36,Northwestern University,https://ror.org/000e0be47
+171571,grid.261277.7,Oakland University,https://ror.org/01ythxj32
+204796,grid.261331.4,Ohio State University-Main Campus,https://ror.org/00rs6vg23
+194310,grid.261572.5,Pace University,https://ror.org/047p7y759
+120865,grid.437114.4,Pacific Union College,https://ror.org/0576nnr74
+214777,grid.29857.31,Pennsylvania State University-Main Campus,https://ror.org/04p491231
+121345,grid.262007.1,Pomona College,https://ror.org/0074grg94
+186131,grid.16750.35,Princeton University,https://ror.org/00hx57361
+209922,grid.182981.b,Reed College,https://ror.org/00a6ram87
+136950,grid.419254.f,Rollins College,https://ror.org/009vh5d61
+239716,grid.422531.3,Saint Norbert College,https://ror.org/01hw93t68
+243744,grid.168010.e,Stanford University,https://ror.org/00f54p054
+233718,grid.264440.0,Sweet Briar College,https://ror.org/05e3rkh95
+206589,grid.254509.f,The College of Wooster,https://ror.org/029zqs055
+180489,grid.253613.0,The University of Montana,https://ror.org/0078xmk34
+178615,grid.265193.a,Truman State University,https://ror.org/0396bvs97
+168148,grid.429997.8,Tufts University,https://ror.org/05wvpxv85
+164155,grid.265465.6,United States Naval Academy,https://ror.org/00znex860
+110635,grid.47840.3f,University of California-Berkeley,https://ror.org/01an7q238
+110653,grid.266093.8,University of California-Irvine,https://ror.org/04gyf1771
+139959,grid.213876.9,University of Georgia,https://ror.org/00te3t702
+145637,grid.35403.31,University of Illinois at Urbana-Champaign,https://ror.org/047426m28
+153658,grid.214572.7,University of Iowa,https://ror.org/036jqmy94
+163268,grid.266673.0,University of Maryland-Baltimore County,https://ror.org/02qskvh78
+170976,grid.214458.e,University of Michigan-Ann Arbor,https://ror.org/00jmfr291
+209551,grid.170202.6,University of Oregon,https://ror.org/0293rh119
+215062,grid.25879.31,University of Pennsylvania,https://ror.org/00b30xv10
+215293,grid.21925.3d,University of Pittsburgh-Pittsburgh Campus,https://ror.org/01an3r305
+195030,grid.16416.34,University of Rochester,https://ror.org/022kthw22
+218663,grid.254567.7,University of South Carolina-Columbia,https://ror.org/02b6qw903
+123961,grid.42505.36,University of Southern California,https://ror.org/03taz7m60
+234076,grid.27755.32,University of Virginia-Main Campus,https://ror.org/0153tk833
+240444,grid.14003.36,University of Wisconsin-Madison,https://ror.org/01y2jtd41
+154527,grid.422499.0,Wartburg College,https://ror.org/02exxw634
+168218,grid.268091.4,Wellesley College,https://ror.org/01srpnj69
+168342,grid.268275.c,Williams College,https://ror.org/04avkmd49

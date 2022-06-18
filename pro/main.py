@@ -1,6 +1,5 @@
 #!/usr/bin/python
 import requests
-import json
 import time
 from logging import exception
 
@@ -88,16 +87,58 @@ def getResponseAuthor(AuthorIdUrl):
     
 
 
+def clip_url(rorid):
+    base_url = "https://api.openalex.org/works?mailto=234058612@qq.com&per-page=50&filter=publication_year:2020,institutions.ror:"
+    additions = rorid + "&cursor="
+    new_url = base_url + additions
+    print(new_url)
+    return new_url
     
+def workFunc(url,university,rorid):
+    print("now , the university is:",university)
+    # 计数页
+    count = 0
+    cur = "*"
+    # writeResq(res)
+    while cur:
+        start =time.time()
+        count = count + 1
+        print(count)
+        workUrl = url + cur
+        print("url is :",workUrl)
+        resultRespone = getResponse(workUrl)
+        if resultRespone:
+            data = resultRespone.json()
+            cur = data["meta"]["next_cursor"]
+            resultsWork = data["results"]
+            print(cur)
+        # if count  < 50 :
+        #     pass
+        # else:
+        getReferenceWork(resultsWork,university,rorid)
+        end = time.time()
+        print('Running time: %s Seconds'%(end-start))
+        
 
 if __name__ == '__main__':
-    
-    urls = []
+    rorPath = "docs/iped_grid_ror.txt"
     log = Logger('pro/logdata/all.log',level='debug')
+    with open(rorPath,"r",encoding="utf-8") as f:
+        data = f.readlines()
+        for _ in data:
+            line = _.rstrip().split(",")
+            print(line)
+            rorid = line[3]
+            university = line[2]
+            if isinstance(rorid,str):
+                url = clip_url(rorid)
+                workFunc(url,university,rorid)
+                print("This university has finished:", university)
+
+    """
     #Logger('pro/logdata/error.log', level='error').logger.error('content')
     for url in urls:
         pass
-    
     # mit url
     # url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=50&filter=publication_year:2020,institutions.ror:https://ror.org/042nb2s44&cursor="
     
@@ -109,16 +150,16 @@ if __name__ == '__main__':
     
     # Denmark
     # url = "https://api.openalex.org/works?mailto=zd675589296@qq.com&per-page=50&filter=publication_year:2020,institutions.ror:https://ror.org/04qtj9h94&cursor="
-    """
+    
     # Add the mailto=you@example.com parameter in your API request, like this: https://api.openalex.org/works?mailto=you@example.com
 	# Use polite pool
-    BASE_URL = "https://api.openalex.org"
-    MAIL_ADDRESS = "mailto=zd675589296@qq.com"
-    PER_PAGE = "10"
-    INSTITUTION = "institutions.ror:https://ror.org/042nb2s44"
-    testUrl = BASE_URL + "/works?" + MAIL_ADDRESS + "&per-page=" + PER_PAGE + "&filter=publication_year:2020," + INSTITUTION + "&cursor="
-    print(testUrl)
-    """
+    # BASE_URL = "https://api.openalex.org"
+    # MAIL_ADDRESS = "mailto=zd675589296@qq.com"
+    # PER_PAGE = "10"
+    # INSTITUTION = "institutions.ror:https://ror.org/042nb2s44"
+    # testUrl = BASE_URL + "/works?" + MAIL_ADDRESS + "&per-page=" + PER_PAGE + "&filter=publication_year:2020," + INSTITUTION + "&cursor="
+    # print(testUrl)
+    
 
     # 计数页
     count = 0
@@ -153,9 +194,6 @@ if __name__ == '__main__':
         end = time.time()
         print('Running time: %s Seconds'%(end-start))
        
-        
-        
-        
         ####################################         Author Part         ###################################
         # AuthorIdUrl = "https://api.openalex.org/authors/A2903904671" 
         # resultsAuthor = getResponseAuthor(AuthorIdUrl)
@@ -165,9 +203,7 @@ if __name__ == '__main__':
 
         # print(cur,type(cur))
         # writeResq(results) 
-        
-        
-
+"""
         
     
 

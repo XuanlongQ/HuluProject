@@ -1,0 +1,80 @@
+168546	Albion College
+164465	Amherst College
+482149	Augusta University
+176628	Avila University
+160977	Bates College
+139144	Berry College
+237181	Bethany College
+164988	Boston University
+162007	Bowie State University
+198066	Brevard College
+217156	Brown University
+169080	Calvin College
+173258	Carleton College
+169248	Central Michigan University
+217819	College of Charleston
+126678	Colorado College
+126818	Colorado State University 鈥 Fort Collins
+190150	Columbia University in the City of New York
+190415	Cornell University
+212009	Dickinson College
+198419	Duke University
+198516	Elon University
+139658	Emory University
+134097	Florida State University
+191241	Fordham University
+212577	Franklin and Marshall College
+139755	Georgia Institute of Technology-Main Campus
+212674	Gettysburg College
+162654	Goucher College
+170082	Grand Valley State University
+153384	Grinnell College
+173647	Gustavus Adolphus College
+166027	Harvard University
+191649	Hofstra University
+153603	Iowa State University
+191968	Ithaca College
+155399	Kansas State University
+203535	Kenyon College
+117946	Loyola Marymount University
+173902	Macalester College
+171100	Michigan State University
+230959	Middlebury College
+173920	Minnesota State University Mankato
+199193	North Carolina State University at Raleigh
+147767	Northwestern University
+171571	Oakland University
+204796	Ohio State University-Main Campus
+194310	Pace University
+120865	Pacific Union College
+214777	Pennsylvania State University-Main Campus
+121345	Pomona College
+186131	Princeton University
+209922	Reed College
+136950	Rollins College
+239716	Saint Norbert College
+243744	Stanford University
+233718	Sweet Briar College
+206589	The College of Wooster
+180489	The University of Montana
+178615	Truman State University
+168148	Tufts University
+164155	United States Naval Academy
+110635	University of California-Berkeley
+110653	University of California-Irvine
+139959	University of Georgia
+145637	University of Illinois at Urbana-Champaign
+153658	University of Iowa
+163268	University of Maryland-Baltimore County
+170976	University of Michigan-Ann Arbor
+209551	University of Oregon
+215062	University of Pennsylvania
+215293	University of Pittsburgh-Pittsburgh Campus
+195030	University of Rochester
+218663	University of South Carolina-Columbia
+123961	University of Southern California
+234076	University of Virginia-Main Campus
+240444	University of Wisconsin-Madison
+154527	Wartburg College
+168218	Wellesley College
+168342	Williams College
