@@ -10,4 +10,4 @@ with open(filePath,"r",encoding="utf-8") as f:
         if isinstance(line,str):
             resultRespone = getResponse(line)
             result = resultRespone.json()
-            ori_concept = 
+            ori_concept =
