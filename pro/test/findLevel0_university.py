@@ -6,6 +6,14 @@ conceptTablePath = "concepts.txt"
 
 
 def findLevel(ori):
+    """find concept level
+
+    Args:
+        ori (str): concept of you want query
+
+    Returns:
+        str: level 0 concept
+    """
     with open(conceptTablePath,"r",encoding="utf-8") as f:
         data = f.readlines()
         for _ in data:
@@ -32,6 +40,12 @@ def findLevel(ori):
                 continue
 
 def workFun(filePath,file):
+    """use to processing multi-path
+
+    Args:
+        filePath (str): universitys' filepath
+        file (str): the address you want to writr your file
+    """
     with open(filePath,"r",encoding="utf-8") as f:
         # 10.1126/science.1167742,https://api.openalex.org/works?filter=cites:W2159397589,Sociology,https://openalex.org/W3139425701,Algorithm
         # https://openalex.org/W3209883632,Political science,https://openalex.org/W2161643046,Demography
@@ -70,5 +84,5 @@ if __name__ == "__main__":
         dstFilename = university_dst_FloderPath + "/" + file
         workFun(filePath,dstFilename)
         #print(filePath,dstFilename)
-        break
+    print("work is finished")
     
