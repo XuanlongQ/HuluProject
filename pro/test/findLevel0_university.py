@@ -84,5 +84,6 @@ if __name__ == "__main__":
         dstFilename = university_dst_FloderPath + "/" + file
         workFun(filePath,dstFilename)
         #print(filePath,dstFilename)
+        print(file ,"has done")
     print("work is finished")
     
