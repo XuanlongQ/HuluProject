@@ -5,6 +5,14 @@ fosPath = "/Users/xuanlong/Downloads/FieldsOfStudy.nt"
 
 
 def get_fos(parent_Entity_ID):
+    """get parent id 
+
+    Args:
+        parent_Entity_ID (str): entity Id you wanna query
+
+    Returns:
+        str: entity_ID,level,display name
+    """
     # <http://ma-graph.org/entity/185592680> <http://ma-graph.org/property/level> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
     # <http://ma-graph.org/entity/185592680> <http://xmlns.com/foaf/0.1/name> "Chemistry"^^<http://www.w3.org/2001/XMLSchema#string> .
     with open(fosPath,"r",encoding="utf-8") as f:
@@ -41,6 +49,14 @@ def get_fos(parent_Entity_ID):
                           
         
 def get_fos_Children(entityID):
+    """get this entity id's parent id
+
+    Args:
+        entityID (str): sub entity id
+
+    Returns:
+        str: parent entity id
+    """
     # <http://ma-graph.org/entity/2777623060> <http://ma-graph.org/property/hasParent> <http://ma-graph.org/entity/12843> .
     with open(fosChildrenPath,"r",encoding="utf-8") as f:
         data = f.readlines()
@@ -53,6 +69,14 @@ def get_fos_Children(entityID):
             
 
 def FindRootConcept(entity_ID):
+    """give this function a entity id, it will return its  level and displayname 
+
+    Args:
+        entity_ID (str): entity id
+
+    Returns:
+        str: entity id ,level,display name
+    """
     parent_Entity_ID = get_fos_Children(entity_ID) 
     en_ID,level,name = get_fos(parent_Entity_ID)
     return en_ID,level,name
