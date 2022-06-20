@@ -1,18 +1,16 @@
 #!/usr/bin/python
 import requests
-import json
 
 
 # local package
 # from log import Logger 
-from toolFunc import ParseWork
+from common import ParseWork
 
 """
 Get information from api url
 Many items were parsed by a api_url
 """
 #log = Logger('pro/logdata/all.log',level='debug')
-
 
 
 def chooseMethod(result,method = 1):
@@ -63,11 +61,3 @@ def parseCitedByApiUrl(cited_by_api_url):
         print("parse cited url error:",e)
         # Logger('pro/logdata/error.log', level='error').logger.error(e) 
     
-
-    
-
-# this package use to parse cited_by_api_url
-# cited_by_api_url = "https://api.openalex.org/works?filter=cites:W2939308062"
-# z = parseCitedByApiUrl(cited_by_api_url)
-# print(z)
-

@@ -1,12 +1,10 @@
 #!/usr/bin/python
-
 import time
 import json
 import random
 import requests
 
 #from logging import exception
-
 
 # local package
 #from log import Logger

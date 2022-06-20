@@ -3,28 +3,27 @@ import time
 # import threading
 
 
-from toolFunc import getResponse,ParseWork
-from parseUrl import chooseMethod
+from common import getResponse,ParseWork
+from parse_url import chooseMethod
+from url_tool import splice_url
 
-filePath = "docs/doi.txt"
-
-def spliceStr(_):
-    if isinstance(_,str):
-        prefix = "https://api.openalex.org/works/https://doi.org/"
-        url_str = prefix + _.rstrip()
-        return url_str
-    else:
-        return None
 
 def getCitedWork(var_doi,cited_work_doi_url,ori_paper_concept):
+    """get cited work from multi pages, use cursor - step 2
+
+    Args:
+        var_doi (str): doi
+        cited_work_doi_url (str): url of cited work
+        ori_paper_concept (str): concept of original paper
+    """
     start =time.time()
     citedUrl = cited_work_doi_url + "&mailto=1501213957@pku.edu.cn&per-page=50&cursor="
     cur = "*"
     count = 1
     while cur:
-        print(count)
+        # print(count)
         cited_work_doi_cursor_url = citedUrl + cur
-        resultRespone = getResponse(cited_work_doi_cursor_url)
+        resultRespone = getResponse(cited_work_doi_cursor_url) # call back cited paper
         if resultRespone:
             data = resultRespone.json()
             cur = data["meta"]["next_cursor"]
@@ -44,19 +43,36 @@ def getCitedWork(var_doi,cited_work_doi_url,ori_paper_concept):
 
 
 def writeTotxt(var_doi,cited_work_doi_url,ori_paper_concept,id,citedConcepts):
+    """write high cited work in the file - step 3
+
+    Args:
+        var_doi (str): doi
+        cited_work_doi_url (str): url of cited work
+        ori_paper_concept (str): concept of original paper
+        id (str): cited papers ids' url
+        citedConcepts (str): concept of cited paper
+    """
     try:
-        with open("pro/experimentdata/testDoi0614-1.txt","a+",encoding="utf-8") as f:
+        with open("docs/high_citedpaper_doi_2.txt","a+",encoding="utf-8") as f:
             f.write(var_doi + "," + cited_work_doi_url + "," + ori_paper_concept + "," + id+ "," + citedConcepts + '\n')
             f.close()
     except Exception as e:
         print("Can not write to file:",e)
 
-if __name__ == '__main__':
+def get_high_cited_doi_concept(filePath):
+    """main function of get high cited doi's concept - step 1
+
+    Args:
+        filePath (str): path of doi
+
+    Returns:
+        None: its an executable function
+    """
     with open(filePath,"r",encoding="utf-8") as f:
         doi_datas = f.readlines()
-        for _ in doi_datas:
-            var_doi = _.rstrip()
-            url_str = spliceStr(_)
+        for doi in doi_datas:
+            var_doi = doi.rstrip()
+            url_str = splice_url(doi)
             if url_str:
                 doi_resp = getResponse(url_str) # return requests
                 doi_json = doi_resp.json()

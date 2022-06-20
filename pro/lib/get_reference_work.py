@@ -1,25 +1,15 @@
-import requests
-import json
-import sys
-
 # local
-from toolFunc import ParseWork,getResponse
-from parseUrl import chooseMethod
+from common import ParseWork,getResponse
+from parse_url import chooseMethod
 # from log import Logger
 
 ### threading module
 import queue
 import threading
 
-
 concurrent = 5
-Denmark = "https://ror.org/04qtj9h94"
-Mit = "https://ror.org/042nb2s44"
-Oxford = "https://ror.org/052gg0110"
-Munich = "https://ror.org/02kkvpp62"
 
 ### func part
-
 def getReferenceWork(results,university,rorid):
     """write referenced content to file
 
@@ -39,7 +29,7 @@ def getReferenceWork(results,university,rorid):
                         if institution["ror"] == rorid:
                             referenced_work_urls = get_reference_urls(result) # referenced urls list
                             if referenced_work_urls:
-                                doConcurrent(referenced_work_urls,ori_paper_ID,ori_paper_concept,university)
+                                doConcurrent(referenced_work_urls,ori_paper_ID,ori_paper_concept,university) # multi-processing
             #             else:
             #                 continue
             #     else:
@@ -125,8 +115,6 @@ def parse_referenced_work(q,ori_paper_ID,ori_paper_concept,university):
                 print(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept)
                 writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept,university)
             
-
-
 def writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept,university):
     writeToFile = "pro/universities/" + university + ".txt"
     try:

@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
-from toolFunc import ParseWork,writeResq
-from parseUrl import chooseMethod,parseCitedByApiUrl
+from common import ParseWork,writeResq
+from parse_url import chooseMethod,parseCitedByApiUrl
 
 
 MIT = "https://ror.org/042nb2s44"
