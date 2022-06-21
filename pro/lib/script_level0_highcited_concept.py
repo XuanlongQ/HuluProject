@@ -1,11 +1,5 @@
 conceptTablePath = "concepts.txt"
 
-testDoi = "pro/experimentdata/testDoi0614-1.txt"
-
-dstPath = "testDoi0619_final"
-
-
-
 def findLevel(ori):
     with open(conceptTablePath,"r",encoding="utf-8") as f:
         data = f.readlines()
@@ -34,8 +28,8 @@ def findLevel(ori):
                 continue
 
 
-if __name__ == "__main__":
-    with open(testDoi,"r",encoding="utf-8") as f:
+def get_high_cited_doi_concept_level0(filePath,dstPath):
+    with open(filePath,"r",encoding="utf-8") as f:
         # 10.1126/science.1167742,https://api.openalex.org/works?filter=cites:W2159397589,Sociology,https://openalex.org/W3139425701,Algorithm
         # https://openalex.org/W3209883632,Political science,https://openalex.org/W2161643046,Demography
         data = f.readlines()

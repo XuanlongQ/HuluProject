@@ -52,4 +52,4 @@ def get_university_content(rorPath):
                 url = url_tool.clip_url(rorid)
                 workFunc(url,university,rorid)
                 print("This university has finished:", university)
-                break
+    

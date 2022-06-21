@@ -2,3 +2,7 @@ Path:
   iped_grid_name_ror: "docs/iped_grid_ror_backup.txt"
   high_cited_doi_concept: "docs/high_citedpaper_doi.txt"
   high_cited_doi: "docs/doi.txt"
+  high_cited_doi_concept_level0: "docs/high_citedpaper_doi_level0.txt"
+  university_ori_FloderPath: "pro/experimentdata/universities"
+  university_dst_FloderPath: "pro/experimentdata/university_concepts"
+  

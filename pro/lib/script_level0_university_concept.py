@@ -1,7 +1,4 @@
 import os
-
-universityFloderPath = "pro/universities"
-university_dst_FloderPath = "pro/university_concepts"
 conceptTablePath = "concepts.txt"
 
 
@@ -76,11 +73,12 @@ def workFun(filePath,file):
                 print("can not match")
 
 
-if __name__ == "__main__":
-    fileName = os.listdir(universityFloderPath)
+
+def get_university_concept_level0(university_ori_FloderPath,university_dst_FloderPath):
+    fileName = os.listdir(university_ori_FloderPath)
     fileName.sort()
     for file in fileName:
-        filePath = universityFloderPath + "/" + file
+        filePath = university_ori_FloderPath + "/" + file
         dstFilename = university_dst_FloderPath + "/" + file
         workFun(filePath,dstFilename)
         #print(filePath,dstFilename)
