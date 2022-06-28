@@ -116,7 +116,7 @@ def parse_referenced_work(q,ori_paper_ID,ori_paper_concept,university):
                 writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept,university)
             
 def writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept,university):
-    writeToFile = "pro/universities/" + university + ".txt"
+    writeToFile = "pro/universities/2011/" + university + ".txt"
     try:
         with open(writeToFile,"a+",encoding="utf-8") as f:
             f.write(ori_paper_ID + "," + ori_paper_concept+ "," + referenced_paper_id +","+ referenced_paper_concept+ '\n')

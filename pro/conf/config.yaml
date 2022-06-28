@@ -4,5 +4,12 @@ Path:
   high_cited_doi: "docs/doi.txt"
   high_cited_doi_concept_level0: "docs/high_citedpaper_doi_level0.txt"
   university_ori_FloderPath: "pro/experimentdata/universities"
+  university_ori_FloderPath_02: "pro/experimentdata/universities_02"
   university_dst_FloderPath: "pro/experimentdata/university_concepts"
-  
+
+DB:
+  userName: "root"
+  passWord: "qxl931007"
+  host: "127.0.0.1"
+  port: 3306
+  dbName: "test_db"
