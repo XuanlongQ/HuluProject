@@ -18,6 +18,7 @@ if __name__ == '__main__':
     file.close()
     
     data = yaml.load(file_data,Loader=yaml.FullLoader)    
+    print(data)
 
     # script1 - get universities' content 
     script_university_content.get_university_content(data["Path"]["iped_grid_name_ror"]) # Path - iped_grid_name_ror
