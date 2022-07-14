@@ -1,0 +1,81 @@
+number	ipeds_id	ipeds_name	HighStatus	liberal_arts
+0	168546	Albion College	0	1
+1	164465	Amherst College	1	1
+2	482149	Augusta University	0	0
+3	176628	Avila University	0	0
+4	160977	Bates College	1	1
+5	139144	Berry College	0	1
+6	237181	Bethany College	0	1
+7	164988	Boston University	0	0
+8	162007	Bowie State University	0	0
+9	198066	Brevard College	0	1
+10	217156	Brown University	1	0
+11	169080	Calvin College	0	1
+12	173258	Carleton College	1	1
+13	169248	Central Michigan University	0	0
+14	217819	College of Charleston	0	1
+15	126678	Colorado College	1	1
+16	126818	Colorado State University 鈥 Fort Collins	0	0
+17	190150	Columbia University in the City of New York	1	0
+18	190415	Cornell University	1	0
+19	212009	Dickinson College	0	1
+20	198419	Duke University	1	0
+21	198516	Elon University	0	0
+22	139658	Emory University	1	0
+23	134097	Florida State University	0	0
+24	191241	Fordham University	0	0
+25	212577	Franklin and Marshall College	0	1
+26	139755	Georgia Institute of Technology-Main Campus	1	0
+27	212674	Gettysburg College	0	1
+28	162654	Goucher College	0	1
+29	170082	Grand Valley State University	0	0
+30	153384	Grinnell College	1	1
+31	173647	Gustavus Adolphus College	0	1
+32	166027	Harvard University	1	0
+33	191649	Hofstra University	0	0
+34	153603	Iowa State University	0	0
+35	191968	Ithaca College	0	1
+36	155399	Kansas State University	0	0
+37	203535	Kenyon College	1	1
+38	117946	Loyola Marymount University	0	0
+39	173902	Macalester College	1	1
+40	171100	Michigan State University	0	0
+41	230959	Middlebury College	1	1
+42	173920	Minnesota State University Mankato	0	0
+43	199193	North Carolina State University at Raleigh	0	0
+44	147767	Northwestern University	1	0
+45	171571	Oakland University	0	0
+46	204796	Ohio State University-Main Campus	0	0
+47	194310	Pace University	0	0
+48	120865	Pacific Union College	0	1
+49	214777	Pennsylvania State University-Main Campus	0	0
+50	121345	Pomona College	1	1
+51	186131	Princeton University	1	0
+52	209922	Reed College	0	1
+53	136950	Rollins College	0	1
+54	239716	Saint Norbert College	0	1
+55	243744	Stanford University	1	0
+56	233718	Sweet Briar College	0	1
+57	206589	The College of Wooster	0	1
+58	180489	The University of Montana	0	0
+59	178615	Truman State University	0	0
+60	168148	Tufts University	1	0
+61	164155	United States Naval Academy	1	0
+62	110635	University of California-Berkeley	1	0
+63	110653	University of California-Irvine	1	0
+64	139959	University of Georgia	0	0
+65	145637	University of Illinois at Urbana-Champaign	1	0
+66	153658	University of Iowa	0	0
+67	163268	University of Maryland-Baltimore County	0	0
+68	170976	University of Michigan-Ann Arbor	1	0
+69	209551	University of Oregon	0	0
+70	215062	University of Pennsylvania	1	0
+71	215293	University of Pittsburgh-Pittsburgh Campus	0	0
+72	195030	University of Rochester	1	0
+73	218663	University of South Carolina-Columbia	0	0
+74	123961	University of Southern California	1	0
+75	234076	University of Virginia-Main Campus	1	0
+76	240444	University of Wisconsin-Madison	1	0
+77	154527	Wartburg College	0	1
+78	168218	Wellesley College	1	1
+79	168342	Williams College	1	1
