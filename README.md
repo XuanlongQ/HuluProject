@@ -3,7 +3,7 @@ get data from openAlex and do some data analysis
 
 ## steps:
 ### Get the program
-git to your local server
+git clone https://github.com/XuanlongQ/HuluProject.git
 
 ### update requirements.txt dependence go get the python requirements
 pip install -r requirements.txt
