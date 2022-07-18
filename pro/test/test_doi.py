@@ -1,8 +1,4 @@
-
-
 import sys
-
-
 
 filePath = "docs/doi_university.txt"
 

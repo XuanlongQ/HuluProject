@@ -3,8 +3,8 @@ Path:
   high_cited_doi_concept: "docs/high_citedpaper_doi.txt"
   high_cited_doi: "docs/doi.txt"
   high_cited_doi_concept_level0: "docs/high_citedpaper_doi_level0.txt"
-  university_ori_FloderPath: "pro/experimentdata/universities/2011"
-  university_dst_FloderPath: "pro/experimentdata/university_concepts/2011"
+  university_ori_FloderPath: "pro/experimentdata/universities/2016"
+  university_dst_FloderPath: "pro/experimentdata/university_concepts/2016"
   universuty_type: "docs/school_type.txt"
 
 

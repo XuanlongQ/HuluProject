@@ -23,7 +23,7 @@ sh start_py.sh
 ```
 
 # _2、Other_
-## 2.1 key files illustraction
+## 2.1 key files illustration
 docs: all the universities' attributes
 - docs/doi_ori_url.txt: doi url of OpenAlex (support)
 - docs/doi.txt: universities' doi (support)

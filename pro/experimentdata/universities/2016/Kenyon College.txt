@@ -1,0 +1,837 @@
+https://openalex.org/W3124984254,Political science,https://openalex.org/W1557885208,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W1498783374,Geography
+https://openalex.org/W3124984254,Political science,https://openalex.org/W1541794558,Political science
+https://openalex.org/W3124984254,Political science,https://openalex.org/W1556267561,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W606323202,Political science
+https://openalex.org/W3124984254,Political science,https://openalex.org/W1599002218,Business
+https://openalex.org/W3124984254,Political science,https://openalex.org/W1910940028,Business
+https://openalex.org/W3124984254,Political science,https://openalex.org/W1577618359,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W1964851251,Mathematical economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W1970154475,Cognitive imitation
+https://openalex.org/W3124984254,Political science,https://openalex.org/W1970807312,Keynesian economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2002273416,Government (linguistics)
+https://openalex.org/W3124984254,Political science,https://openalex.org/W1999466007,Econometrics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2008710945,Monetary economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2009244493,Monetary economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2021955184,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2022888829,Computer science
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2027746017,Political science
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2025480160,History
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2035794155,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2047757354,Business
+https://openalex.org/W3124984254,Political science,https://openalex.org/W1995729188,History
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2053564429,Exchange rate
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2056408879,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2068698436,Geography
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2074341411,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2078719994,Monetary economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2080542629,Business
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2080533797,Microeconomics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2107083908,Business
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2110451908,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2128844900,Political science
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2131439620,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2140932709,Computer science
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2104428939,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W3121427624,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2799662584,Political science
+https://openalex.org/W3124984254,Political science,https://openalex.org/W3121658605,Sitting
+https://openalex.org/W3124984254,Political science,https://openalex.org/W3121818254,Law
+https://openalex.org/W3124984254,Political science,https://openalex.org/W3122231922,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W3123209058,Monetary economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W3123376814,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W2606068364,Political science
+https://openalex.org/W3124984254,Political science,https://openalex.org/W3123677558,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W3140337232,Economics
+https://openalex.org/W3124984254,Political science,https://openalex.org/W3125345169,Economics
+https://openalex.org/W2212316926,Business,https://openalex.org/W2102626394,Advertising
+https://openalex.org/W2212316926,Business,https://openalex.org/W1973266492,Macroeconomics
+https://openalex.org/W2212316926,Business,https://openalex.org/W3122962532,Economics
+https://openalex.org/W2212316926,Business,https://openalex.org/W1988286464,Economics
+https://openalex.org/W2212316926,Business,https://openalex.org/W2082839717,Econometrics
+https://openalex.org/W2212316926,Business,https://openalex.org/W1744775027,Economics
+https://openalex.org/W2212316926,Business,https://openalex.org/W2113204700,Business
+https://openalex.org/W2212316926,Business,https://openalex.org/W1500740180,Economics
+https://openalex.org/W2212316926,Business,https://openalex.org/W3121965100,Economics
+https://openalex.org/W2212316926,Business,https://openalex.org/W2520638000,Business
+https://openalex.org/W2212316926,Business,https://openalex.org/W3122541849,Business
+https://openalex.org/W2212316926,Business,https://openalex.org/W2155014080,Business
+https://openalex.org/W2212316926,Business,https://openalex.org/W3122581417,Economics
+https://openalex.org/W2212316926,Business,https://openalex.org/W1985415035,Business
+https://openalex.org/W2212316926,Business,https://openalex.org/W1570028017,Economics
+https://openalex.org/W2212316926,Business,https://openalex.org/W2058759379,Business
+https://openalex.org/W2212316926,Business,https://openalex.org/W2098944378,Work (physics)
+https://openalex.org/W2212316926,Business,https://openalex.org/W2120641488,Computer science
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2179614604,Physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W1970714182,Mathematical physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W1901379248,Modern physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2011728444,Mathematics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W1548593001,Physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2017232919,Statistical physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2104853465,Mathematical physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2005614303,Physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2069176876,Planck
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2099263196,Mathematical physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2153344483,Classical mechanics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2127583647,Mathematical physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2013907741,Physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W1985174979,Mathematical physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W1992541079,Gravitation
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2032448048,Physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2030392256,Physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W3100625892,Classical mechanics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2058135317,Mathematical physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2566410267,Physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W1979237068,Physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W3102580597,Physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W3104568677,Physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W1880687005,Physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2025720404,Physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W3102701096,Mathematical physics
+https://openalex.org/W3103583138,Physics,https://openalex.org/W2248514403,Theoretical physics
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W1513383932,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W1215808992,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W1776008735,Water resource management
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W1972067718,Geography
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W1489565361,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W1998811800,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2008105678,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2015994975,Ecosystem
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W1980609858,Disturbance (geology)
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2008054890,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2030416847,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2074575497,Geography
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2097155671,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2104301422,Business
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2080439372,Computer science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2094685499,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2105148040,Drainage basin
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2075845155,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2105813730,Geology
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2147924102,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2180915257,Ecology
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2327770985,Agronomy
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2494739535,Soil water
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2179119941,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2616178545,Environmental science
+https://openalex.org/W2567022633,Environmental chemistry,https://openalex.org/W2793411798,Environmental science
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W2018413293,Bounded function
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W1509839166,Physics
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W2007311732,Mathematics
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W1515452785,Mathematics
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W2004706092,Mathematical analysis
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W2033903680,Convergence (economics)
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W2103953214,Mathematics
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W2140056512,Boundary (topology)
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W2080737109,Mathematics
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W2064685239,Geology
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W2310180429,Mathematics
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W3163199165,Physics
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W2400419065,Arithmetic
+https://openalex.org/W2566174348,Mathematical analysis,https://openalex.org/W2148769413,Mathematics
+https://openalex.org/W2268637743,Business,https://openalex.org/W1502277479,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W610298226,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W1489546084,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W1491366907,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W578673000,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W1542319629,Advertising
+https://openalex.org/W2268637743,Business,https://openalex.org/W1505750693,Geography
+https://openalex.org/W2268637743,Business,https://openalex.org/W1527009353,Geography
+https://openalex.org/W2268637743,Business,https://openalex.org/W1514710186,Economics
+https://openalex.org/W2268637743,Business,https://openalex.org/W1795815835,Computer science
+https://openalex.org/W2268637743,Business,https://openalex.org/W1796466560,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W1534355171,Economics
+https://openalex.org/W2268637743,Business,https://openalex.org/W1975468293,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W1973256542,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W1980949657,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W1983483977,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W1995063625,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W2004684270,Political science
+https://openalex.org/W2268637743,Business,https://openalex.org/W1874994370,Economics
+https://openalex.org/W2268637743,Business,https://openalex.org/W2008592451,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W2039023272,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W2049855235,Economics
+https://openalex.org/W2268637743,Business,https://openalex.org/W2053295624,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W1989599834,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W2057629916,Space (punctuation)
+https://openalex.org/W2268637743,Business,https://openalex.org/W2089558067,Democracy
+https://openalex.org/W2268637743,Business,https://openalex.org/W2095125487,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W2101719943,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W2082253150,Food choice
+https://openalex.org/W2268637743,Business,https://openalex.org/W2104674007,Economics
+https://openalex.org/W2268637743,Business,https://openalex.org/W2102998981,Political science
+https://openalex.org/W2268637743,Business,https://openalex.org/W2112490573,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W2130120184,Political science
+https://openalex.org/W2268637743,Business,https://openalex.org/W2132118889,Agricultural economics
+https://openalex.org/W2268637743,Business,https://openalex.org/W2131586477,Mathematics
+https://openalex.org/W2268637743,Business,https://openalex.org/W2142851599,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W2188833774,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W2164957365,Economics
+https://openalex.org/W2268637743,Business,https://openalex.org/W2243488954,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W2903842520,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W3020931242,Marketing
+https://openalex.org/W2268637743,Business,https://openalex.org/W3123763908,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W3143280944,Business
+https://openalex.org/W2268637743,Business,https://openalex.org/W2050676081,Business
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W1928031482,Psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W1540596182,Mathematics
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W1493051424,Psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W1161890327,Computer science
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W1483571652,Medicine
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W1982809779,Sample (material)
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W1941783251,Variation (astronomy)
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W1968423387,Applied psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W1996118086,Computer science
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2014949682,Clinical psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2028891945,Applied psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2032147138,Computer science
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2032577998,Psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2042049661,Psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2065057616,Computer science
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2076387137,Computer science
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2079492519,Clinical psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2081064771,Index (typography)
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W1991966247,Clinical psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2064907287,Mathematics
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2082032767,Clinical psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2088101706,Psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2088476684,Personnel selection
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2089765093,Big Five personality traits
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2116323796,Computer science
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2127119766,Personnel selection
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2120758056,Psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2129501685,Applied psychology
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2134299926,Personality Assessment Inventory
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2170081377,Computer science
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2164005910,Hacker
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2332834163,Computer science
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2480710602,Personality
+https://openalex.org/W1046275439,Cognitive psychology,https://openalex.org/W2141632279,Computer science
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1865290146,Chemistry
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1964373309,Environmental science
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1480955476,Chemistry
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1931885036,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1965405937,Horticulture
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1972344529,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1966448818,Agronomy
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1969184803,Horticulture
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1973379838,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1977781244,Biophysics
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1988904367,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1988989601,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1989118800,Chemistry
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1992209516,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1997366362,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1996727169,Horticulture
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1998622804,Geography
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1992730555,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1998876665,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W1999621410,Chemistry
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2001927320,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2002772057,Agronomy
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2003064256,Chemistry
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2003381591,Horticulture
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2005497688,Ecology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2007695521,Botany
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2008578384,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2010392071,Chemistry
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2030274299,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2037285250,Environmental science
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2031809905,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2046275728,Environmental science
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2048762866,Ecology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2053198122,Horticulture
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2054134620,Chemistry
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2059270266,Photosynthesis
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2062167302,Horticulture
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2063499237,Environmental science
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2069758968,Calyx
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2073098477,Chemistry
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2075835492,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2081884526,Epidermis (zoology)
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2082829060,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2086116526,Environmental science
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2090993318,Botany
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2091526266,Horticulture
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2104536603,Altitude (triangle)
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2098074477,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2065629109,Chemistry
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2106511403,Horticulture
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2112209842,Cuticle (hair)
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2114872542,Chemistry
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2125404137,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2136273033,Cuticle (hair)
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2138629847,Horticulture
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2155906769,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2153010999,Petal
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2157745374,Horticulture
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2164450756,Chemistry
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2164975468,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2156166043,Solanum
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2166406821,Genus
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2221897469,Acari
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2106903078,Botany
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2271742200,Morphology (biology)
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2341599585,Cuticle (hair)
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2330381339,Biology
+https://openalex.org/W2373395427,Biology,https://openalex.org/W2317601160,Horticulture
+https://openalex.org/W2511477755,Physics,https://openalex.org/W1880687005,Physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W1548593001,Physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W1901379248,Modern physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W1970714182,Mathematical physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W1979237068,Physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W1992541079,Gravitation
+https://openalex.org/W2511477755,Physics,https://openalex.org/W1985174979,Mathematical physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2011728444,Mathematics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2005614303,Physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2017232919,Statistical physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2025720404,Physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2032448048,Physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2058135317,Mathematical physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2069176876,Planck
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2013907741,Physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2104853465,Mathematical physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2127583647,Mathematical physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2153344483,Classical mechanics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2030392256,Physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2248514403,Theoretical physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2099263196,Mathematical physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W3100625892,Classical mechanics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W3102580597,Physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W3102701096,Mathematical physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W3104568677,Physics
+https://openalex.org/W2511477755,Physics,https://openalex.org/W2179614604,Physics
+https://openalex.org/W2315086312,Computer science,https://openalex.org/W1999706070,Quantum mechanics
+https://openalex.org/W2315086312,Computer science,https://openalex.org/W2031448371,Mathematics
+https://openalex.org/W2315086312,Computer science,https://openalex.org/W2167413626,Computer science
+https://openalex.org/W2315086312,Computer science,https://openalex.org/W2151359594,Computer science
+https://openalex.org/W2315086312,Computer science,https://openalex.org/W2105512769,Computer science
+https://openalex.org/W2315086312,Computer science,https://openalex.org/W3104304785,Discrete mathematics
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1992304229,Food science
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2165249808,Bacteria
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2060101082,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2060587237,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1967253785,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2053098819,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2071975518,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1538034459,Bacteria
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2149820656,Biochemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1551233459,Antibiotics
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2123973590,Internal medicine
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2060479599,Cell biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2132828965,Pharmacology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2087903825,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1595287493,Microbiology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2119666507,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1572779399,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2120289437,Evolutionary biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1999979510,Gram-positive bacteria
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2121108942,Geography
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2004254961,Resistance (ecology)
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2152434411,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2405780710,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2124576388,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2016167342,Ammonia
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2017006980,Cell biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2010849870,Cell biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2115941371,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2146588044,Genetics
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2290768068,Computational biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2004181413,Cell biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2013647724,Evolutionary biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2150189371,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1503057784,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2009646503,Chromosome
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2060510755,Medicine
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2006805047,Chloramphenicol
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1569469824,Bacteria
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2092156604,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2237024231,Microbiology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2108073693,Fluorescence microscope
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2128554689,Cell biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2135087037,Antibiotics
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2016379968,Pharmacology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2132771466,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2108382081,Internal medicine
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2085454969,Evolutionary biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1994084909,Adaptation (eye)
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1967600116,Adaptation (eye)
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2090564545,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2144455805,Biochemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2217024838,Internal medicine
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2139489886,Amino acid
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2109731964,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2135432367,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2079403016,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2136965666,Evolutionary biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1575099532,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2073556554,Microbiology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2059685673,Antibiotics
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2117131162,Computer science
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2050119054,Computational biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2104669330,Computational biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2040756306,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2107392621,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2114516632,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2140055375,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2161548174,Bacteria
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2172297795,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2276794371,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2153572376,Biophysics
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2075350111,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2520345180,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2012980277,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2113184924,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2134172123,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2058021523,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2119961387,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2125826054,Computational biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2490493873,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2112790264,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2077721821,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2111967267,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2134153749,Biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2121747816,Gene
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2115631653,Chemistry
+https://openalex.org/W2468639212,Biology,https://openalex.org/W1997478924,Computational biology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2133294416,Gastroenterology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2154881669,Microbiology
+https://openalex.org/W2468639212,Biology,https://openalex.org/W2104112565,Biochemistry
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1567269820,Business
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1556267561,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W179922057,Blockchain
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1495886451,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1598833883,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1583839029,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1599002218,Business
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1964851251,Mathematical economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1519770058,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1970154475,Cognitive imitation
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1988699025,Computer science
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1987220755,Physics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1989218902,Business
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1989442752,Monetary economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2002273416,Government (linguistics)
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W1992783971,Microeconomics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2008710945,Monetary economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2009244493,Monetary economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2022888829,Computer science
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2027146071,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2021955184,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2031698600,Tragedy of the commons
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2074341411,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2066462806,Cryptocurrency
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2090885931,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2096605213,Outcome (game theory)
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2078719994,Monetary economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2121172705,Business
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2129261459,Lock (firearm)
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2011851009,Business
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2053564429,Exchange rate
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2167672226,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W2214897964,Business
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3121427624,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3121889917,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3122982033,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3123090177,Commodity
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3123636261,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3124464298,Monetary economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3124555749,Business
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3124779386,Keynesian economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3124834484,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3125733986,Business
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3126124018,Economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3151553154,Law and economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3123209058,Monetary economics
+https://openalex.org/W3125597160,Computer science,https://openalex.org/W3124694287,Computer science
+https://openalex.org/W2008592451,Business,https://openalex.org/W2031935235,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W2148920598,Political science
+https://openalex.org/W2008592451,Business,https://openalex.org/W1969672598,Gerontology
+https://openalex.org/W2008592451,Business,https://openalex.org/W2182066753,Geography
+https://openalex.org/W2008592451,Business,https://openalex.org/W2172264312,Food studies
+https://openalex.org/W2008592451,Business,https://openalex.org/W2130120184,Political science
+https://openalex.org/W2008592451,Business,https://openalex.org/W2092683565,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W2111384375,Political science
+https://openalex.org/W2008592451,Business,https://openalex.org/W1487050594,Geography
+https://openalex.org/W2008592451,Business,https://openalex.org/W2151596218,Geography
+https://openalex.org/W2008592451,Business,https://openalex.org/W589062013,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W2112332389,Environmental health
+https://openalex.org/W2008592451,Business,https://openalex.org/W2076288554,Political science
+https://openalex.org/W2008592451,Business,https://openalex.org/W2171625664,Demography
+https://openalex.org/W2008592451,Business,https://openalex.org/W610298226,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W1982168411,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W1990794846,Political science
+https://openalex.org/W2008592451,Business,https://openalex.org/W2064039308,Geography
+https://openalex.org/W2008592451,Business,https://openalex.org/W2498968555,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W1983040283,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W1663709649,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W2057629916,Space (punctuation)
+https://openalex.org/W2008592451,Business,https://openalex.org/W2006458970,Medicine
+https://openalex.org/W2008592451,Business,https://openalex.org/W2095125487,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W2313981947,Geography
+https://openalex.org/W2008592451,Business,https://openalex.org/W1555320575,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W17343522,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W1978433600,Psychology
+https://openalex.org/W2008592451,Business,https://openalex.org/W2129190518,Economics
+https://openalex.org/W2008592451,Business,https://openalex.org/W1977383680,Agriculture
+https://openalex.org/W2008592451,Business,https://openalex.org/W2504398943,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W1507004422,Computer science
+https://openalex.org/W2008592451,Business,https://openalex.org/W1591387089,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W2339740280,Political science
+https://openalex.org/W2008592451,Business,https://openalex.org/W64781156,Rural community
+https://openalex.org/W2008592451,Business,https://openalex.org/W2014426040,Economic geography
+https://openalex.org/W2008592451,Business,https://openalex.org/W2037124948,Computer science
+https://openalex.org/W2008592451,Business,https://openalex.org/W2104674007,Economics
+https://openalex.org/W2008592451,Business,https://openalex.org/W2069387911,Ecology
+https://openalex.org/W2008592451,Business,https://openalex.org/W2142851599,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W2104460807,Scale (ratio)
+https://openalex.org/W2008592451,Business,https://openalex.org/W2019446274,Social change
+https://openalex.org/W2008592451,Business,https://openalex.org/W2075645306,Sociology
+https://openalex.org/W2008592451,Business,https://openalex.org/W2166665326,Anthropology
+https://openalex.org/W2008592451,Business,https://openalex.org/W1198608267,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W1970428112,Agricultural economics
+https://openalex.org/W2008592451,Business,https://openalex.org/W2162520637,Psychology
+https://openalex.org/W2008592451,Business,https://openalex.org/W1520539141,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W2141067687,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W2050368048,Sociology
+https://openalex.org/W2008592451,Business,https://openalex.org/W2114341931,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W2011075362,Political science
+https://openalex.org/W2008592451,Business,https://openalex.org/W1992934788,Business
+https://openalex.org/W2008592451,Business,https://openalex.org/W2153716780,Political science
+https://openalex.org/W2008592451,Business,https://openalex.org/W2266307447,The good life
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2604506545,Geography
+https://openalex.org/W2419574237,Geography,https://openalex.org/W180663158,Geography
+https://openalex.org/W2419574237,Geography,https://openalex.org/W1964853622,Geology
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2604234626,Geography
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2074310414,Archaeology
+https://openalex.org/W2419574237,Geography,https://openalex.org/W1523088477,Geography
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2110552666,History
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2003639634,Geography
+https://openalex.org/W2419574237,Geography,https://openalex.org/W1875911314,Geography
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2097121139,Maya
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2322289076,Geography
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2099723545,Geography
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2604228376,Art
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2069690413,History
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2943154001,Art
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2604422891,Materials science
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2001735148,Geology
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2316716939,Geography
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2165681803,Geography
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2497324626,Geography
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2105670028,Archaeology
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2113681118,Mesoamerica
+https://openalex.org/W2419574237,Geography,https://openalex.org/W2089243728,History
+https://openalex.org/W4234471590,Art,https://openalex.org/W2090646364,Art
+https://openalex.org/W4234471590,Art,https://openalex.org/W2031141715,History
+https://openalex.org/W4234471590,Art,https://openalex.org/W2075123753,Philosophy
+https://openalex.org/W4234471590,Art,https://openalex.org/W642185294,History
+https://openalex.org/W4234471590,Art,https://openalex.org/W1990444508,Art
+https://openalex.org/W4234471590,Art,https://openalex.org/W4256375234,Psychology
+https://openalex.org/W4234471590,Art,https://openalex.org/W2105541953,Psychology
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W1983651499,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2153062087,Pollution
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2180915257,Ecology
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2040365203,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2031924386,Environmental chemistry
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2039007217,Chemistry
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2128687263,Ecosystem
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2086001869,Chemistry
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2015032635,Nutrient cycle
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2116246914,Business
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2038913236,Computer science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2140499464,Ecosystem
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2049134903,Ecology
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2346097916,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2179119941,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2144007238,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W166498024,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2220798022,Geography
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2033107470,Chemistry
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2061461067,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W1528603191,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2074378044,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2020727987,Ecosystem
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2062368512,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W1998615712,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2072355839,Environmental chemistry
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W1997276027,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2053171376,Geography
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2053883820,Environmental chemistry
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2087860806,Chemistry
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2060776782,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2029135730,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2038099574,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2785944953,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2115826771,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2163377903,Biology
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W1529416155,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2173244693,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2059777129,Ecosystem
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2071285879,Chemistry
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W163095131,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2078627623,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2020815341,Ecology
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2165421374,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2068497800,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2137721303,Geography
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W1970989154,Environmental science
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2038636973,Business
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2142785799,Ecosystem
+https://openalex.org/W2482911874,Environmental science,https://openalex.org/W2083783685,Chemistry
+https://openalex.org/W2567186720,Philosophy,https://openalex.org/W2299289318,Philosophy
+https://openalex.org/W2567186720,Philosophy,https://openalex.org/W2004679316,Philosophy
+https://openalex.org/W2567186720,Philosophy,https://openalex.org/W2083496215,Environmental ethics
+https://openalex.org/W2567186720,Philosophy,https://openalex.org/W563421591,Political science
+https://openalex.org/W2567186720,Philosophy,https://openalex.org/W1499980340,Computer science
+https://openalex.org/W2567186720,Philosophy,https://openalex.org/W2256756476,Geology
+https://openalex.org/W2567186720,Philosophy,https://openalex.org/W2064878029,Materials science
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1513279399,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W73489685,Computer science
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1557885208,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1551500478,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1556267561,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1964851251,Mathematical economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1567269820,Business
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1601603727,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1830445466,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1965798380,Mathematical economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1969103552,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1966329243,Monetary economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1981900721,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1980651976,Monetary economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1986856280,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1987220755,Physics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1989442752,Monetary economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2002273416,Government (linguistics)
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2011851009,Business
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2009244493,Monetary economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2008710945,Monetary economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W1970154475,Cognitive imitation
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2022888829,Computer science
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2027146071,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2038597603,Econometrics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2045877143,Econometrics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2049334030,Keynesian economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2074341411,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2078719994,Monetary economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2080533797,Microeconomics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2053564429,Exchange rate
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2101220718,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2101902912,Keynesian economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2024860942,Monetary economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2110377790,Microeconomics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2113933673,Monetary economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2119365592,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2090885931,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2121172705,Business
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2135338930,Monetary economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2153172455,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2154286097,Econometrics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2162236578,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2170281352,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2201424246,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2235005049,Microeconomics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W2753500101,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W3121427624,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W3122020283,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W3123209058,Monetary economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W3123237866,Monetary economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W3124560671,Keynesian economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W3121991023,Business
+https://openalex.org/W3123138882,Economics,https://openalex.org/W3124744790,Computer science
+https://openalex.org/W3123138882,Economics,https://openalex.org/W3124834484,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W3126124018,Economics
+https://openalex.org/W3123138882,Economics,https://openalex.org/W3124213505,Monetary economics
+https://openalex.org/W4229908955,Geology,https://openalex.org/W2505077398,History
+https://openalex.org/W4229908955,Geology,https://openalex.org/W597235216,History
+https://openalex.org/W4229908955,Geology,https://openalex.org/W4206354265,Transition (genetics)
+https://openalex.org/W4229908955,Geology,https://openalex.org/W2088626497,History
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W1610193911,Broadcasting (networking)
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W626199542,Art
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W1103908494,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W1503398169,Art
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W1714581334,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W1993597752,Masculinity
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W1982130680,Developmental psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W1997315203,Perception
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W1999262850,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W1972195125,Content (measure theory)
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2007154066,Character (mathematics)
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2016282229,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2016111538,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2026336624,Developmental psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2039130067,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2029377187,Clinical psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2040488735,Personality
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2006042472,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2043634424,Developmental psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2044788623,Content (measure theory)
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2028385011,Gender studies
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2057957467,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2060626696,Social psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2063116254,Qualitative research
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2070739254,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2078119496,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2079991701,Aggression
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2080691790,Art
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2085196339,Social psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2081148970,Political science
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2090718050,Content (measure theory)
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2068860288,Cognitive psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2095639394,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2093545727,Conformity
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2096372719,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2097539156,African american
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2108800498,Psychological intervention
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2106571016,Child development
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2109669675,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2135271800,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2138786993,Clinical psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2139536488,Cognitive psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2164460685,Content (measure theory)
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2185721895,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2203555580,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2461271817,Psychology
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2486914661,Anxiety
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2517399168,Art
+https://openalex.org/W2172679018,Developmental psychology,https://openalex.org/W2528684057,Psychology
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W1756972723,Psychology
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W314844710,Psychology
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W1975121796,Psychology
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W1978027321,Clinical psychology
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2004545382,Medicine
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2006296688,Psychology
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2026599921,Medicine
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2010479523,Clinical psychology
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2037899284,Medicine
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2045406718,Clinical psychology
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2055385411,Medicine
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2062345864,Medicine
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2073864088,Medicine
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2150317109,Medicine
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2153456525,Psychology
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2001898215,Cognitive psychology
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2166440645,Medicine
+https://openalex.org/W2195090284,Clinical psychology,https://openalex.org/W2082078865,Clinical psychology
+https://openalex.org/W2499555236,Art,https://openalex.org/W2069364675,Art
+https://openalex.org/W2499555236,Art,https://openalex.org/W593816929,History
+https://openalex.org/W2499555236,Art,https://openalex.org/W2117856741,History
+https://openalex.org/W2499555236,Art,https://openalex.org/W2314249033,History
+https://openalex.org/W2499555236,Art,https://openalex.org/W2981049560,Art
+https://openalex.org/W2499555236,Art,https://openalex.org/W1607420446,Art
+https://openalex.org/W2499555236,Art,https://openalex.org/W1592742031,History
+https://openalex.org/W2499555236,Art,https://openalex.org/W1977689002,History
+https://openalex.org/W2499555236,Art,https://openalex.org/W2033506826,Visual arts
+https://openalex.org/W2499555236,Art,https://openalex.org/W1581519797,History
+https://openalex.org/W2499555236,Art,https://openalex.org/W2000628378,Art
+https://openalex.org/W2499555236,Art,https://openalex.org/W295371255,Art
+https://openalex.org/W2499555236,Art,https://openalex.org/W2798302723,Sociology
+https://openalex.org/W2499555236,Art,https://openalex.org/W2963780994,History
+https://openalex.org/W2499555236,Art,https://openalex.org/W2512537861,History
+https://openalex.org/W2528243499,Geography,https://openalex.org/W2468056618,Development economics
+https://openalex.org/W2528243499,Geography,https://openalex.org/W587995817,Geography
+https://openalex.org/W2553155863,Environmental science,https://openalex.org/W2003605835,Geography
+https://openalex.org/W2553155863,Environmental science,https://openalex.org/W1988197828,Environmental science
+https://openalex.org/W2553155863,Environmental science,https://openalex.org/W2053323150,Physics
+https://openalex.org/W2553155863,Environmental science,https://openalex.org/W1968516757,Geography
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2064510864,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W1506128206,Medicine
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2111808595,Zoology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2176180568,Psychology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2582743722,Computer science
+https://openalex.org/W2565707264,Biology,https://openalex.org/W1999635025,Information theory
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2156934679,Geography
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2014024241,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2133495309,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W1997628827,Animal science
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2046501269,Geography
+https://openalex.org/W2565707264,Biology,https://openalex.org/W274851821,Flexibility (engineering)
+https://openalex.org/W2565707264,Biology,https://openalex.org/W58095506,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W1963878914,Behavioral ecology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2099555137,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2135414483,Cell biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2142500960,Environmental science
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2064011462,Animal science
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2145484835,Economics
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2028328694,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W1973967205,Zoology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2006796623,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2051094063,Zoology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2209050773,Immunity
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2444531930,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2092281675,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2144851593,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2147109139,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2161920862,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2110785824,Zoology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2028162541,Medicine
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2163230336,Chemistry
+https://openalex.org/W2565707264,Biology,https://openalex.org/W1995672946,Gene
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2003652884,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2157521901,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2009435671,Computer science
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2048699081,Geography
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2135821619,Zoology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W1993983321,Medicine
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2011647435,Demography
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2029343920,Zoology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2043896331,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2057176732,Ecology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2058340484,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2076953828,Zoology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2068717659,Immunology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W1982873334,Acquired immune system
+https://openalex.org/W2565707264,Biology,https://openalex.org/W1974176485,Evolutionary biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W273789549,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2045870389,Virology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W1985626518,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2098428536,Zoology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2115219337,Animal science
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2323137153,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2004608282,Bursa of Fabricius
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2099618289,Ecology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2115931584,Geography
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2064662031,Zoology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W2147482295,Biology
+https://openalex.org/W2565707264,Biology,https://openalex.org/W580063354,Biology
+https://openalex.org/W2588822968,Environmental science,https://openalex.org/W2039041423,Ecosystem
+https://openalex.org/W2588822968,Environmental science,https://openalex.org/W2091219605,Environmental science
+https://openalex.org/W2588822968,Environmental science,https://openalex.org/W1970052178,Ecological succession
+https://openalex.org/W2588822968,Environmental science,https://openalex.org/W2174638872,Soil water
+https://openalex.org/W2588822968,Environmental science,https://openalex.org/W2328198225,Environmental science
+https://openalex.org/W2588822968,Environmental science,https://openalex.org/W2080353877,Ecosystem
+https://openalex.org/W2588822968,Environmental science,https://openalex.org/W1994664474,Environmental science
+https://openalex.org/W2588822968,Environmental science,https://openalex.org/W2020815341,Ecology
+https://openalex.org/W2588822968,Environmental science,https://openalex.org/W2050735933,Environmental science
+https://openalex.org/W2588822968,Environmental science,https://openalex.org/W2092704631,Nutrient
+https://openalex.org/W2588822968,Environmental science,https://openalex.org/W2059000358,Habitat
+https://openalex.org/W2588822968,Environmental science,https://openalex.org/W2041396888,Ecosystem engineer
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2056145119,Computer science
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2039871263,Mathematical physics
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W1998660432,Mathematics
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W1521316741,Epistemology
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2148576428,Physics
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2162753709,Computer science
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2619747066,Mathematics
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2161316267,Theoretical physics
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2163751633,Computer science
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W1603299963,Computer science
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W1970952443,Quantum mechanics
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2050334794,Computer science
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W3099018298,Theoretical physics
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W3105940321,Computer science
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2069974662,Statistical physics
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2503907534,Mathematics
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2004304976,Mathematical physics
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2068343535,Quantum mechanics
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2032558547,Physics
+https://openalex.org/W2761714508,Mathematics,https://openalex.org/W2135830616,Quantum mechanics
+https://openalex.org/W3141896201,Psychology,https://openalex.org/W651490004,Political science
+https://openalex.org/W3141896201,Psychology,https://openalex.org/W1484244868,Political science
+https://openalex.org/W3141896201,Psychology,https://openalex.org/W2067589470,Business
+https://openalex.org/W3141896201,Psychology,https://openalex.org/W1537685414,Political science
+https://openalex.org/W3141896201,Psychology,https://openalex.org/W2069015038,Psychology
+https://openalex.org/W3141896201,Psychology,https://openalex.org/W2081308798,Social psychology
+https://openalex.org/W3141896201,Psychology,https://openalex.org/W648063826,Political science
+https://openalex.org/W3141896201,Psychology,https://openalex.org/W2142786619,Criminology

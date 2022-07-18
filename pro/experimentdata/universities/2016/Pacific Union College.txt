@@ -1,0 +1,91 @@
+https://openalex.org/W2206595109,Biology,https://openalex.org/W137726889,Finch
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2153067812,Art
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2035808755,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2329182927,Biology
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2069358162,Biology
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2182890743,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2099555671,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2626108195,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2475224216,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2611092904,Biology
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2345200174,Biology
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2142788494,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W155158845,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2591680177,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2021334900,Ecology
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2798509876,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W1564278010,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W1569711088,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2151099403,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2149705352,Agroforestry
+https://openalex.org/W2206595109,Biology,https://openalex.org/W399977683,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2184945888,Political science
+https://openalex.org/W2206595109,Biology,https://openalex.org/W1972432277,Art
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2020579664,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W406012976,Environmental science
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2235355000,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W1996727357,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2282632292,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2006261411,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2555722079,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W603206803,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W1993747337,Biology
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2334015328,Biology
+https://openalex.org/W2206595109,Biology,https://openalex.org/W166385569,Biology
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2332117705,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W637547069,Art
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2069060448,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2552681742,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2018772235,Computer science
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2182971836,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2123133482,Biology
+https://openalex.org/W2206595109,Biology,https://openalex.org/W1550095290,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2023699618,Evolutionary biology
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2171401998,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2155116292,Environmental science
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2970555320,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W1498491156,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2154914416,Geography
+https://openalex.org/W2206595109,Biology,https://openalex.org/W2483169154,Art
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2093242036,Fishery
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2096555026,Geography
+https://openalex.org/W2513526468,Biology,https://openalex.org/W813055869,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2095577130,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W1568983992,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W1980814018,Ecology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2480486039,Zoology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2066309536,Zoology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W1990708823,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2086925749,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2089591990,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2056424629,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W1974597422,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W1982707397,Geography
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2019122445,Oceanography
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2496091194,Fishery
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2247164305,Geography
+https://openalex.org/W2513526468,Biology,https://openalex.org/W3117846347,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W1964175963,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2333949444,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2018468145,Environmental science
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2489390229,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2476592704,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W1967620416,Environmental science
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2777518260,Geography
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2036783347,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W54150700,Geography
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2476285476,Geography
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2070769589,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2002746668,Philosophy
+https://openalex.org/W2513526468,Biology,https://openalex.org/W1983969977,Geography
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2502338466,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2069158464,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W27932997,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2462706816,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W128433029,Environmental science
+https://openalex.org/W2513526468,Biology,https://openalex.org/W1058394798,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2048998678,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W73690626,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2036787682,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W2508631963,Biology
+https://openalex.org/W2513526468,Biology,https://openalex.org/W125860254,Biology

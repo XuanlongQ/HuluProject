@@ -1,0 +1,21 @@
+https://openalex.org/W2002087026,Business,https://openalex.org/W1983530130,Business
+https://openalex.org/W2002087026,Business,https://openalex.org/W2044811569,Business
+https://openalex.org/W2002087026,Business,https://openalex.org/W2079396727,Medicine
+https://openalex.org/W2002087026,Business,https://openalex.org/W2026824419,Business
+https://openalex.org/W2002087026,Business,https://openalex.org/W2026015906,Business
+https://openalex.org/W2002087026,Business,https://openalex.org/W2062407575,Political science
+https://openalex.org/W2002087026,Business,https://openalex.org/W2178830841,Medicine
+https://openalex.org/W2002087026,Business,https://openalex.org/W1973820724,Business
+https://openalex.org/W2002087026,Business,https://openalex.org/W1988631586,Medicine
+https://openalex.org/W2002087026,Business,https://openalex.org/W1484102341,Psychology
+https://openalex.org/W2002087026,Business,https://openalex.org/W2013150379,Business
+https://openalex.org/W2002087026,Business,https://openalex.org/W2316173976,Political science
+https://openalex.org/W2002087026,Business,https://openalex.org/W2077205277,Business
+https://openalex.org/W2002087026,Business,https://openalex.org/W2174716256,Psychology
+https://openalex.org/W2002087026,Business,https://openalex.org/W2317732089,Business
+https://openalex.org/W195303566,Medicine,https://openalex.org/W2091128743,Medicine
+https://openalex.org/W195303566,Medicine,https://openalex.org/W1978453497,Medicine
+https://openalex.org/W195303566,Medicine,https://openalex.org/W2076310393,Medicine
+https://openalex.org/W195303566,Medicine,https://openalex.org/W2081032339,Medicine
+https://openalex.org/W195303566,Medicine,https://openalex.org/W2287690323,Medicine
+https://openalex.org/W195303566,Medicine,https://openalex.org/W2033866965,Medicine

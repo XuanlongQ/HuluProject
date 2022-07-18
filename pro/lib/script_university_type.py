@@ -35,13 +35,13 @@ def merge_university_type(university_FloderPath):
         #print(university,university_status,university_disipline)
         print(filePath)
         if university_status == "0" and university_disipline == "0":
-            dstPath = "pro/experimentdata/university_type/2011/low_status_science.txt"
+            dstPath = "pro/experimentdata/university_type/2016/low_status_science.txt"
         elif university_status == "0" and university_disipline == "1":
-            dstPath = "pro/experimentdata/university_type/2011/low_status_liberal_arts.txt"
+            dstPath = "pro/experimentdata/university_type/2016/low_status_liberal_arts.txt"
         elif university_status == "1" and university_disipline == "1":
-            dstPath = "pro/experimentdata/university_type/2011/high_status_liberal_arts.txt"
+            dstPath = "pro/experimentdata/university_type/2016/high_status_liberal_arts.txt"
         elif university_status == "1" and university_disipline == "0":
-            dstPath = "pro/experimentdata/university_type/2011/high_status_science.txt"
+            dstPath = "pro/experimentdata/university_type/2016/high_status_science.txt"
         else:
             dstPath = None
         print(university,dstPath)
