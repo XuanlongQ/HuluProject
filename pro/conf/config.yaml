@@ -7,6 +7,7 @@ Path:
   university_dst_FloderPath: "pro/experimentdata/university_concepts/2011"
   universuty_type: "docs/school_type.txt"
 
+
 DB:
   userName: "root"
   passWord: "qxl931007"

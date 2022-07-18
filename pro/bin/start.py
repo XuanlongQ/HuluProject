@@ -21,17 +21,14 @@ if __name__ == '__main__':
     print(data)
 
     # script1 - get universities' content 
-    # script_university_content.get_university_content(data["Path"]["iped_grid_name_ror"]) # Path - iped_grid_name_ror
+    script_university_content.get_university_content(data["Path"]["iped_grid_name_ror"]) # Path - iped_grid_name_ror
 
     # script2 - get universities' original and destination concepts - level0
     # script_level0_university_concept.get_university_concept_level0(data["Path"]["university_ori_FloderPath"],data["Path"]["university_dst_FloderPath"]) # Path - ori folder of university, dst folder of university level0 
     
     # script3 - merge universities with 4 types  - university_dst_FloderPath ( university_concepts level 0)
-    script_university_type.merge_university_type(data["Path"]["university_dst_FloderPath"])
-    
-    
-    
-    
+    # script_university_type.merge_university_type(data["Path"]["university_dst_FloderPath"])  # output need to update by yourself.
+       
     
     ######## for high cited paper #########
     ## script4 - get high cited papers' original and destination concepts - individual script
