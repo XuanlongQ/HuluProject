@@ -84,6 +84,12 @@ memb_hss <- oc_hss$membership
 memb_lsla <- oc_lsla$membership
 memb_lss <- oc_lss$membership
 
+# evlaution
+m_hsla <- modularity(oc_hsla,memb_hsla)
+m_hss <- modularity(oc_hss,memb_hss)
+m_lsla <- modularity(oc_lsla,memb_lsla)
+m_lss <- modularity(oc_lss,memb_lsla)
+
 # hsla
 png("/Users/xuanlong/Documents/program/python/src/hansiqi/project/pro/experimentdata/r_image/2011/hsla_2011.png",width = 1080,height = 1080)
 plot(oc_hsla,g_hsla,vertex.color = memb_hsla,
