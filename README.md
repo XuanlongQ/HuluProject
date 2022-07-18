@@ -2,15 +2,19 @@
 get data from openAlex and do some data analysis
 
 ## steps:
-### Get the program
+### Method1:
+#### Get the program
 git clone https://github.com/XuanlongQ/HuluProject.git
 
-### update requirements.txt dependence go get the python requirements
+#### Update requirements.txt dependence go get the python requirements
 pip install -r requirements.txt
 
-### run main file
+#### Run main file
 cd HuluProject/
 python3 pro/bin/start.py
+
+### Method2 
+sh start_py.sh
 
 # Other
 ## key files illustraction
@@ -36,6 +40,14 @@ pro: all the program code
     - pro/bin/r_clustring.R : r clustering algorithm
 - pro/conf: config.yaml file for path config
 - pro/lib: all code 
+
+
+pro/experimentdata : all the experiment data
+- pro/experimentdata/r_image: r image
+- pro/experimentdata/r_image_csv: csv data of r image
+- pro/experimentdata/universities: original data of craweled data - sublevel
+- pro/experimentdata/university_concepts: original data of craweled data - level 0
+- pro/experimentdata/university_type: merged data
 
 ## descripton of scripts
 ### 1、script1 - script_university_content

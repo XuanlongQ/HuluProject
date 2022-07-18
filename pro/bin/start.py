@@ -27,7 +27,7 @@ if __name__ == '__main__':
     # script_level0_university_concept.get_university_concept_level0(data["Path"]["university_ori_FloderPath"],data["Path"]["university_dst_FloderPath"]) # Path - ori folder of university, dst folder of university level0 
     
     # script3 - merge universities with 4 types  - university_dst_FloderPath ( university_concepts level 0)
-    script_university_type.merge_university_type(data["Path"]["university_dst_FloderPath"])
+    # script_university_type.merge_university_type(data["Path"]["university_dst_FloderPath"])  # output need to update by yourself.
     
     
     
