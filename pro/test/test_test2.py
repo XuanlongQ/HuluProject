@@ -2,7 +2,7 @@ import threading
 import time
 import queue
  
-# 通过多线程来处理Queue里面的任务：
+# 通过多线程来处理Queue里面的任务
 def work(q):
     while True:
         if q.empty():
