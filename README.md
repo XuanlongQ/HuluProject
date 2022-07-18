@@ -1,23 +1,29 @@
 # HuluProject
 get data from openAlex and do some data analysis
 
-## steps:
+## _1、Steps_:
 ### Method1:
 #### Get the program
+```
 git clone https://github.com/XuanlongQ/HuluProject.git
-
+```
 #### Update requirements.txt dependence go get the python requirements
+```
 pip install -r requirements.txt
-
+```
 #### Run main file
+```
 cd HuluProject/
 python3 pro/bin/start.py
+```
 
 ### Method2 
+```
 sh start_py.sh
+```
 
-# Other
-## key files illustraction
+# _2、Other_
+## 2.1 key files illustraction
 docs: all the universities' attributes
 - docs/doi_ori_url.txt: doi url of OpenAlex (support)
 - docs/doi.txt: universities' doi (support)
@@ -49,7 +55,7 @@ pro/experimentdata : all the experiment data
 - pro/experimentdata/university_concepts: original data of craweled data - level 0
 - pro/experimentdata/university_type: merged data
 
-## descripton of scripts
+## 2.2 Descripton of scripts
 ### 1、script1 - script_university_content
 Using for crawl data from path (data["Path"]["iped_grid_name_ror"])
 

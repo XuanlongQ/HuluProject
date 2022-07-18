@@ -21,7 +21,7 @@ if __name__ == '__main__':
     print(data)
 
     # script1 - get universities' content 
-    # script_university_content.get_university_content(data["Path"]["iped_grid_name_ror"]) # Path - iped_grid_name_ror
+    script_university_content.get_university_content(data["Path"]["iped_grid_name_ror"]) # Path - iped_grid_name_ror
 
     # script2 - get universities' original and destination concepts - level0
     # script_level0_university_concept.get_university_concept_level0(data["Path"]["university_ori_FloderPath"],data["Path"]["university_dst_FloderPath"]) # Path - ori folder of university, dst folder of university level0 
