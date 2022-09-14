@@ -1,4 +1,6 @@
-def clip_url(rorid):
+import sys
+
+def clip_url(data_yaml,rorid):
     """give a rorid generate its openAlex link
 
     Args:
@@ -7,7 +9,13 @@ def clip_url(rorid):
     Returns:
         str: a url can be interviewed in openAlex
     """
-    base_url = "https://api.openalex.org/works?mailto=675589296@qq.com&per-page=50&filter=publication_year:2011,institutions.ror:"
+    base_url = "https://api.openalex.org/{w}?mailto={m}&per-page={p}&filter={f}:{y},institutions.ror:".format( w = data_yaml['URL']['entity'],
+                                                                                                                m = data_yaml['URL']['mailto'],
+                                                                                                                p = data_yaml['URL']['per-page'],
+                                                                                                                f = data_yaml['URL']['filter'],
+                                                                                                                y = data_yaml['URL']['year']
+                                                                                                                )
+    #base_url = "https://api.openalex.org/works?mailto=675589296@qq.com&per-page=50&filter=publication_year:2011,institutions.ror:"
     additions = rorid + "&cursor="
     new_url = base_url + additions
     return new_url

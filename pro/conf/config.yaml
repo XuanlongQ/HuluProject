@@ -8,9 +8,20 @@ Path:
   universuty_type: "docs/school_type.txt"
 
 
+
+URL:
+  entity: "works"
+  mailto: "675589296@qq.com"
+  per-page: "50"
+  filter: "publication_year"
+  year: "2011"
+  institutions: "ror"
+
+
+
 DB:
   userName: "root"
-  passWord: "qxl931007"
+  passWord: "xxxx"
   host: "127.0.0.1"
   port: 3306
   dbName: "test_db"

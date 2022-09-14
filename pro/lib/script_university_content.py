@@ -35,7 +35,7 @@ def workFunc(url,university,rorid):
         end = time.time()
         print('Running time: %s Seconds'%(end-start))
 
-def get_university_content(rorPath):
+def get_university_content(data_yaml,rorPath):
     """import function of get universities' content - step 1
 
     Args:
@@ -49,7 +49,7 @@ def get_university_content(rorPath):
             rorid = line[3]
             university = line[2]
             if isinstance(rorid,str):
-                url = url_tool.clip_url(rorid)
+                url = url_tool.clip_url(data_yaml,rorid)
                 workFunc(url,university,rorid)
                 print("This university has finished:", university)
     

@@ -34,6 +34,26 @@ def merge_university_type(university_FloderPath):
         university_status,university_disipline = match_university_type(university)
         #print(university,university_status,university_disipline)
         print(filePath)
+        
+        # from middleware import YEAR
+        # base_dir = 'dataSet'+ os.sep + 'university_type' + os.sep + str(YEAR)
+        # if not os.path.isdir(base_dir):
+        #     os.makedirs(base_dir)
+        # if university_status == "0" and university_disipline == "0":
+        #     dstPath = base_dir + os.sep + 'low_status_science.txt'
+            
+        # elif university_status == "0" and university_disipline == "1":
+        #     dstPath = base_dir + os.sep + 'low_status_liberal_arts.txt'
+
+        # elif university_status == "1" and university_disipline == "1":
+        #     dstPath = base_dir + os.sep + 'high_status_liberal_arts.txt'
+
+        # elif university_status == "1" and university_disipline == "0":
+        #     dstPath = base_dir + os.sep + 'high_status_science.txt'
+
+        # else:
+        #     dstPath = None
+        
         if university_status == "0" and university_disipline == "0":
             dstPath = "pro/experimentdata/university_type/2016/low_status_science.txt"
         elif university_status == "0" and university_disipline == "1":
