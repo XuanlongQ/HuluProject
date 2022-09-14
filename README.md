@@ -23,18 +23,18 @@ sh start_py.sh
 ```
 
 # _2、Other_
-## 2.1 key files illustraction
+## 2.1 key files illustration
 docs: all the universities' attributes
 - docs/doi_ori_url.txt: doi url of OpenAlex (support)
 - docs/doi.txt: universities' doi (support)
 - docs/doi_university.txt: universities' doi and their name (support)
 - docs/grids.txt:universities' iped,grid (support)
 - docs/high_citedpaper_doi.txt: high cited papers' doi and openAlex url (support)
-- **docs/iped_grid_ror_backup.txt: universities' iped,grid,openalAlex ror (key file)**
 - docs/iped_grid.txt: universities' iped,grid (support)
 - docs/ipeds.txt: universities' iped (support)
 - docs/ror_grid.txt:universities' ror,grid (support)
 - docs/school_type.txt: universities' type (support)
+- - **docs/iped_grid_ror_backup.txt: universities' iped,grid,openalAlex ror (key file)**
 
 
 **concepts.txt: all concepts level ()**

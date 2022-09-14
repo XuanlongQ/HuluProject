@@ -1,16 +1,8 @@
-"""
-@author: zhangjun.xue
-@time: 2020/3/30 14:20
-@file: threading_queue.py.py
-@desc: 多线程去消费一个队列的例子
-"""
- 
 import threading
 import time
 import queue
  
- 
-# 下面来通过多线程来处理Queue里面的任务：
+# 通过多线程来处理Queue里面的任务
 def work(q):
     while True:
         if q.empty():
@@ -19,7 +11,6 @@ def work(q):
             t = q.get()
             print("当前线程sleep {} 秒".format(t))
             time.sleep(1)
- 
  
 def main():
     q = queue.Queue()
