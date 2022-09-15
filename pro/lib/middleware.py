@@ -1,8 +1,23 @@
 # use for basic config
-YEAR = 2019 # dataSet/universities/YEAR
+# yaml class
+from weakref import proxy
+import yaml
+
+class YamlConfig:
+    
+    @staticmethod
+    def get_yaml():
+        file = open('pro/conf/config.yaml', 'r', encoding="utf-8")
+        file_data = file.read()                 
+        file.close()
+        
+        data_yaml = yaml.load(file_data,Loader=yaml.FullLoader)    
+        return data_yaml
+    
 
 
-
+# proxy1:https://www.zdaye.com/dayProxy.html
+# proxy2:http://proxylist.fatezero.org/
 PROXY = [
             '202.55.5.209:8090',"183.247.199.114:30001","183.247.211.50:30001","122.9.101.6:8888",
             "47.106.105.236:80","122.9.101.6:8888","47.106.105.236:80","183.247.211.50:30001",

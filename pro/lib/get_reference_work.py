@@ -121,12 +121,14 @@ def parse_referenced_work(q,ori_paper_ID,ori_paper_concept,university):
 def writeTotxt(ori_paper_ID,ori_paper_concept,referenced_paper_id,referenced_paper_concept,university):
     # writeToFile = "pro/universities/2011/" + university + ".txt"
 
-    from middleware import YEAR   
-    base_dir = 'pro'+ os.sep + 'experimentdata' + os.sep + 'universities' + os.sep + str(YEAR)
+    from middleware import YamlConfig
+    data_yaml = YamlConfig.get_yaml()
+    YEAR = data_yaml['URL']['year']
+    base_dir = 'pro'+ os.sep + 'experimentdata' + os.sep + 'universities' + os.sep + YEAR
     if not os.path.isdir(base_dir):
         os.makedirs(base_dir)
         
-    writeToFile = base_dir + os.sep + university + 'txt'
+    writeToFile = base_dir + os.sep + university + '.txt'
     try:
         with open(writeToFile,"a+",encoding="utf-8") as f:
             f.write(ori_paper_ID + "," + ori_paper_concept+ "," + referenced_paper_id +","+ referenced_paper_concept+ '\n')

@@ -24,44 +24,28 @@ def write_to_file(university,filePath,dstPath):
                 f_output.write(university+ "," +_)
                 f_output.close()
                 
-def merge_university_type(university_FloderPath):
+def merge_university_type(universityType_ori_FloderPath,universityType_dst_FloderPath):
     # university_FloderPath = "pro/experimentdata/university_concepts/2021"
-    fileName = os.listdir(university_FloderPath)
+    fileName = os.listdir(universityType_ori_FloderPath)
     fileName.sort()
     for file in fileName:
-        filePath = university_FloderPath + "/" + file
+        filePath = universityType_ori_FloderPath + "/" + file
         university = file.split(".")[0]
         university_status,university_disipline = match_university_type(university)
         #print(university,university_status,university_disipline)
         print(filePath)
-        
-        # from middleware import YEAR
-        # base_dir = 'dataSet'+ os.sep + 'university_type' + os.sep + str(YEAR)
-        # if not os.path.isdir(base_dir):
-        #     os.makedirs(base_dir)
-        # if university_status == "0" and university_disipline == "0":
-        #     dstPath = base_dir + os.sep + 'low_status_science.txt'
-            
-        # elif university_status == "0" and university_disipline == "1":
-        #     dstPath = base_dir + os.sep + 'low_status_liberal_arts.txt'
 
-        # elif university_status == "1" and university_disipline == "1":
-        #     dstPath = base_dir + os.sep + 'high_status_liberal_arts.txt'
-
-        # elif university_status == "1" and university_disipline == "0":
-        #     dstPath = base_dir + os.sep + 'high_status_science.txt'
-
-        # else:
-        #     dstPath = None
-        
         if university_status == "0" and university_disipline == "0":
-            dstPath = "pro/experimentdata/university_type/2016/low_status_science.txt"
+            dstPath = universityType_dst_FloderPath + os.sep + 'low_status_science.txt'
+            
         elif university_status == "0" and university_disipline == "1":
-            dstPath = "pro/experimentdata/university_type/2016/low_status_liberal_arts.txt"
+            dstPath = universityType_dst_FloderPath + os.sep + 'low_status_liberal_arts.txt'
+            
         elif university_status == "1" and university_disipline == "1":
-            dstPath = "pro/experimentdata/university_type/2016/high_status_liberal_arts.txt"
+            dstPath = universityType_dst_FloderPath + os.sep + 'high_status_liberal_arts.txt'
+            
         elif university_status == "1" and university_disipline == "0":
-            dstPath = "pro/experimentdata/university_type/2016/high_status_science.txt"
+            dstPath = universityType_dst_FloderPath + os.sep + 'high_status_science.txt'
         else:
             dstPath = None
         print(university,dstPath)
