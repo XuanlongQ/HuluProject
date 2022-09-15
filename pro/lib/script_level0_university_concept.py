@@ -65,7 +65,10 @@ def workFun(filePath,file):
             
             print(ori_final_concept,dst_final_concept)
             
+
+            
             try:
+                
                 with open(file,"a+",encoding="utf-8") as f:
                     f.write(ori_url  + "," + ori_final_concept + "," + dst_url + "," + dst_final_concept + "\n")
                     f.close()

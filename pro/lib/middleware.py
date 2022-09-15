@@ -1,5 +1,21 @@
 # use for basic config
-YEAR = 2019 # dataSet/universities/YEAR
+# yaml class
+import yaml
+
+class YamlConfig:
+    
+    @staticmethod
+    def get_yaml():
+        file = open('pro/conf/config.yaml', 'r', encoding="utf-8")
+        file_data = file.read()                 
+        file.close()
+        
+        data_yaml = yaml.load(file_data,Loader=yaml.FullLoader)    
+        return data_yaml
+    
+
+
+# YEAR = 2019 # dataSet/universities/YEAR
 
 
 
