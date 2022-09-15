@@ -1,5 +1,6 @@
 # use for basic config
 # yaml class
+from weakref import proxy
 import yaml
 
 class YamlConfig:
@@ -15,10 +16,8 @@ class YamlConfig:
     
 
 
-# YEAR = 2019 # dataSet/universities/YEAR
-
-
-
+# proxy1:https://www.zdaye.com/dayProxy.html
+# proxy2:http://proxylist.fatezero.org/
 PROXY = [
             '202.55.5.209:8090',"183.247.199.114:30001","183.247.211.50:30001","122.9.101.6:8888",
             "47.106.105.236:80","122.9.101.6:8888","47.106.105.236:80","183.247.211.50:30001",
